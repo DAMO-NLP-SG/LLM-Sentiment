@@ -1,0 +1,4 @@
+text,label_text
+Easily the worst stir-fried squid I 've ever tasted .,"[('stir-fried squid', 'worst', 'negative')]"
+The place 's decor and hidden bathrooms made for a good laugh .,"[('decor', 'good laugh', 'positive'), ('hidden bathrooms', 'good laugh', 'positive')]"
+"To sum it up : Service varies from good to mediorce , depending on which waiter you get ; generally it is just average Ok .","[('Service', 'varies', 'neutral')]"

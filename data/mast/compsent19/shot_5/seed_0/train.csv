@@ -1,0 +1,11 @@
+text,tuple,label_text
+"The restaurant is doing much better,"" Sal reveals of Papa C's Eastside cafe.","['restaurant', 'cafe', 'better']",better
+"By about a chapter into the PHP book, I was thinking ""holy crap, this language is uglier than Perl"".","['PHP', 'Perl', 'worse']",worse
+The SBCL implementation of Lisp is on par with Java 6 Server and is significantly faster than Ruby or Python.,"['Java', 'Python', 'better']",better
+"As an aside, who in their right mind would buy an inferior GM or Ford car when a very well engineered European car, like that from Mercedes Benz and BMW can be purchased for a much lower price than now when the euro falls.","['Ford', 'BMW', 'worse']",worse
+"Java, also bytecode interpreted but static rather than dynamic [9] , is loads faster than Python.","['Java', 'Python', 'better']",better
+"Now this last system used only a 1.8GHz Opteron 144 processor as opposed to the 2.0GHz Opteron 246 of the IBM systems, so the Intel compiler is actually faster at 1093/1162.","['IBM', 'Intel', 'worse']",worse
+gamecube doesnt have better realistic graphics than the ps2? RE:4 anyone?,"['gamecube', 'ps2', 'worse']",worse
+milk is better than beer!,"['milk', 'beer', 'better']",better
+"In supply-chain conversations, the Pacific Crest semiconductor team learned that Windows 7 inventory is moving faster than Windows 8.","['Windows 7', 'Windows 8', 'better']",better
+"Java isn't too bad of a first language, but Python is a little easier to pick up.","['Java', 'Python', 'worse']",worse

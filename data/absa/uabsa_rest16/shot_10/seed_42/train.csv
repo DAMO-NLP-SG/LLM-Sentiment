@@ -1,0 +1,41 @@
+text,label_text
+Kind of a small place but I guess if they are not too busy might be able to fit a group or kids .,"[('place', 'neutral')]"
+Not what I would expect for the price and prestige of this location .,"[('location', 'neutral')]"
+I tried a couple other dishes but was n't too impressed .,"[('dishes', 'neutral')]"
+love the food .,"[('food', 'positive')]"
+"First of all , this place is *not* romantic , as claimed by Citysearch 's editorial review .","[('place', 'negative')]"
+Food was OK .,"[('Food', 'neutral')]"
+What more could you want ?,[]
+This little place definitely exceeded my expectations and you sure get a lot of food for your money .,"[('place', 'positive'), ('food', 'positive')]"
+They have all been tonight and they have all been about the same restaurant .,[]
+"This place has totally weird decor , stairs going up with mirrored walls , I am surprised how no one yet broke their head or fall off the stairs , mirrored walls make you dizzy and delusional .","[('decor', 'negative'), ('mirrored walls', 'negative'), ('mirrored walls', 'negative')]"
+The potato balls were not dry at all in fact it was buttery .,"[('potato balls', 'positive')]"
+The waitress was not attentive at all .,"[('waitress', 'negative')]"
+"With the exception of our lemon salad that had so much pepper on it that our eyes started watering , the food here was decent , not great .","[('lemon salad', 'negative'), ('food', 'neutral')]"
+Just not good at all .,[]
+It is very overpriced and not very tasty .,[]
+"Service ok but unfriendly , filthy bathroom .","[('Service', 'negative'), ('bathroom', 'negative')]"
+"Downtown Dinner 2002 , Prixe fix , Appetizers were ok , waiter gave me poor suggestiontry the potato stuff kanish best one .","[('Appetizers', 'neutral'), ('waiter', 'negative'), ('potato stuff kanish', 'positive')]"
+"Service was prompt , friendly and great .","[('Service', 'positive')]"
+The place is small and cramped but the food is fantastic .,"[('place', 'negative'), ('food', 'positive')]"
+"They are not helpful in the least and will give you the grand run around so by the time the event date rolls around you will not only regret chosing this place , but also become hostile !",[]
+Single Worst Restaurant in Manhattan,"[('Restaurant', 'negative')]"
+"those rolls were big , but not good and sashimi was n't fresh .","[('rolls', 'neutral'), ('sashimi', 'negative')]"
+Maitre-D and get out,"[('Maitre-D', 'negative')]"
+The food was absolutely amazing ! !,"[('food', 'positive')]"
+"However , our main course was wonderful .","[('main course', 'positive')]"
+Not impressed with the food .,"[('food', 'negative')]"
+I live in the neightborhood and am a regular .,[]
+Fantastic !,[]
+Chicken teriyaki had tomato or pimentos on top ? ?,"[('Chicken teriyaki', 'negative')]"
+"The floor was wet , the trash can filled with hand towels n all over the floor , no soap , and no hand towels left .",[]
+"We recently decided to try this location , and to our delight , they have outdoor seating , perfect since I had my yorkie with me .","[('outdoor seating', 'positive')]"
+"Just remember , the later you go , the longer you may have to wait .",[]
+"Food was okay , nothing great .","[('Food', 'neutral')]"
+This is a fun restaurant to go to .,"[('restaurant', 'positive')]"
+"The lobster knuckles special of the day were ok , but pretty tasteless .","[('lobster knuckles', 'neutral')]"
+"One special roll and one regular roll is enough to fill you up , but save room for dessert !","[('special roll', 'positive'), ('regular roll', 'positive'), ('dessert', 'positive')]"
+There is a downside if you 're ordering in - the delivery guys have MAJOR attitude .,"[('delivery guys', 'negative')]"
+We did arrive late for our reservation so I can not complain too much about the wait for a table .,"[('wait', 'neutral')]"
+"If you 're planning to come here , make sure that your date is someone whom you really like since you 'll be ushered to private booths where there will be no people or food watching choose the ones on the ground level that have glass ceilings so you may see the stars in the sky ! .","[('private booths', 'positive'), ('glass ceilings', 'positive')]"
+Big thumbs up !,[]

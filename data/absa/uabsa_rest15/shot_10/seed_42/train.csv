@@ -1,0 +1,41 @@
+text,label_text
+"Food was okay , nothing great .","[('Food', 'neutral')]"
+The food is okay and the prices here are mediocre .,"[('food', 'neutral')]"
+The scallion pancakes and fried dumplings were nothing out of the ordinary .,"[('scallion pancakes', 'neutral'), ('fried dumplings', 'neutral')]"
+Myagi is one of my favorite restaurants in the City ; the place the negative reviews describe sound like they were somewhere else .,"[('Myagi', 'positive')]"
+"During the course of the past 3 months , the chef and staff changed and it was not for the better .","[('chef', 'negative'), ('staff', 'negative')]"
+The service was friendly and the atmosphere was casual .,"[('service', 'positive'), ('atmosphere', 'neutral')]"
+Beautiful experience .,[]
+"I am not a vegetarian but , almost all the dishes were great .","[('dishes', 'positive')]"
+You can do it here .,[]
+"The atmosphere is n't the greatest , but I suppose that 's how they keep the prices down .","[('atmosphere', 'negative')]"
+I highly recommend Caviar Russe to anyone who wants delicious top grade caviar and fantastic service .,"[('caviar', 'positive'), ('service', 'positive')]"
+This restaurant is VEGETARIAN ; there are NO MEAT dishes whatsoever .,"[('MEAT dishes', 'negative')]"
+Amma is nothing special .,"[('Amma', 'neutral')]"
+"Compared to other shabu restaurants around town , this places wins hands-down .",[]
+It 's great to go for a quick lunch either alone or with a friend .,[]
+"Consequently , their burgers fell apart in their hands and made such a mess that they did'nt feel like finishing them .","[('burgers', 'negative')]"
+"Rao is a good restaurant , but it 's nothing special .","[('Rao', 'neutral')]"
+Consistently good Japanese Tapas .,"[('Japanese Tapas', 'positive')]"
+The food was bland oily .,"[('food', 'negative')]"
+Just went here for my girlfriends 23rd bday .,[]
+"The food was average to above-average ; the French Onion soup filling yet not overly impressive , and the desserts not brilliant in any way .","[('food', 'positive'), ('French Onion soup', 'negative'), ('desserts', 'negative')]"
+The location and ambience is Ok but the food is what makes up for it .,"[('location', 'neutral'), ('ambience', 'neutral'), ('food', 'positive')]"
+My chow fun and chow see was really bland and oily .,"[('chow fun and chow see', 'negative')]"
+I absolutely Loved this place .,"[('place', 'positive')]"
+"With the great variety on the menu , I eat here often and never get bored .","[('menu', 'positive')]"
+"Terrible , terrible management , deserves to be shut-down .","[('management', 'negative')]"
+"No , really .",[]
+Also they were $ 15 each !,[]
+I was here a few weeks back and we had the worst customer service experience at a restaurant ever .,"[('customer service', 'negative')]"
+"Great bagels , spreads and a good place to hang out in .",[]
+I LOVE their Thai,"[('Thai', 'positive')]"
+Highly recommended to all !,[]
+"The portions are HUGE , so it might be good to order three things to split rather than one appetizer and entree per person for two people .","[('portions', 'neutral')]"
+The bagel was huge .,"[('bagel', 'positive')]"
+"The tables are crammed way too close , the menu is typical of any Italian restaurant , and the wine list is simply overpriced .","[('tables', 'negative'), ('menu', 'neutral'), ('wine list', 'negative')]"
+The food 's as good as ever .,"[('food', 'positive')]"
+"We ordered the special , grilled branzino , that was so infused with bone , it was difficult to eat .","[('grilled branzino', 'negative')]"
+The restaurant is cute but not upscale .,"[('restaurant', 'neutral')]"
+I take all my NYC guests to VT's .,"[(""VT's"", 'positive')]"
+I think the stuff was better than Disney .,[]

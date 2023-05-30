@@ -1,0 +1,41 @@
+text,label_text
+"The food is wonderful , tasty and filling , and the service is professional and friendly .","[('food', 'positive'), ('service', 'positive')]"
+I did not try the caviar but I tried their salmon and crab salad they are all good,"[('salmon', 'positive'), ('crab salad', 'positive')]"
+I 've lived in NY for 5 years and this place has it all .,"[('place', 'positive')]"
+Fish was overdone .,"[('Fish', 'negative')]"
+Kind of a small place but I guess if they are not too busy might be able to fit a group or kids .,"[('place', 'neutral')]"
+"The decor in this place is very diner-ish and the kind of place you expect in the East Village , not romantic , just simple , small and sparse .","[('decor', 'neutral')]"
+Atmosphere is nice and relaxed too .,"[('Atmosphere', 'positive')]"
+I had a huge pastrami sandwich on a roll .,"[('pastrami sandwich on a roll', 'neutral')]"
+"My friends settled for rice dishes , but we came back the following day to try the dim sum , which was goodnot outstanding , but good .","[('dim sum', 'neutral')]"
+"The bagels always warm , soft on the inside , crispy on the outside and enormous in size .","[('bagels', 'positive')]"
+Thius is a must for anyone who loves Shabu-Shabu .,"[('Shabu-Shabu', 'positive')]"
+I felt as though I were eating in Paris .,[]
+Amazing !,[]
+"If you do n't mind pre-sliced low quality fish , unfriendly staff and a sushi chef that looks like he is miserable then this is your place .","[('fish', 'negative'), ('staff', 'negative'), ('sushi chef', 'negative')]"
+It was $ 14 not really bad for a pound of Pastrami-but it did n't have much taste-I 've had better for less elsewhere !,[]
+It 's somewhere you can eat and be happy .,[]
+What 's the difference between the two ?,[]
+"Food was just averageif they lowered the prices just a bit , it would be a bigger draw .","[('Food', 'neutral')]"
+"To celebrate a birthday , three of us went to Mare anticipating great food .",[]
+Chow fun was dry ; pork shu mai was more than usually greasy and had to share a table with loud and rude family .,"[('Chow fun', 'negative'), ('pork shu mai', 'negative')]"
+"However , go for the ambience , and consider the food just a companion for a trip across the world !","[('ambience', 'positive'), ('food', 'neutral')]"
+This place is incredibly tiny .,"[('place', 'negative')]"
+"Food was very good , but not what I would consider out of this world .","[('Food', 'neutral')]"
+"The service is ok , some of the people did n't get what they asked for .","[('service', 'neutral')]"
+"Ive been to many Thai restaurants in Manhattan before , and Toons is by far the best Thai food Ive had except for my mom 's of course .",[]
+"The food is very averagethe Thai fusion stuff is a bit too sweet , every thing they serve is too sweet here .","[('food', 'negative'), ('Thai fusion stuff', 'negative')]"
+"No , really .",[]
+"Immediately after we paid , the waiter took the money and said , okay , you guys are outta here .","[('waiter', 'negative')]"
+Good drink .,"[('drink', 'positive')]"
+sometimes i get good food and ok service .,"[('food', 'positive'), ('service', 'neutral')]"
+keep up the good work .,[]
+This place blew me awayby far my new favorite restaurant on the uppereast side .,"[('place', 'positive')]"
+The service is awful .,"[('service', 'negative')]"
+I can not imagine better Indian food in all of the city .,"[('Indian food', 'positive')]"
+"The pizza is delicious , they use fresh mozzarella instead of the cheap , frozen , shredded cheese common to most pizza 's .","[('pizza', 'positive'), ('fresh mozzarella', 'positive'), ('pizza', 'positive')]"
+"With the exception of our lemon salad that had so much pepper on it that our eyes started watering , the food here was decent , not great .","[('lemon salad', 'negative'), ('food', 'neutral')]"
+"The porcini mushroom pasta special was tasteless , so was the seafood tagliatelle .","[('porcini mushroom pasta special', 'negative'), ('seafood tagliatelle', 'negative')]"
+"When I called this morning , I did n't think I would be able to get in at 12 , but I was able to get in , along with four other guests .",[]
+"A gentleman , maybe the manager , came to our table , and without so much as a smile or greeting asked for our order .","[('gentleman', 'negative')]"
+"The waitress moved our table practically into the bathroom and when we asked to cancel our dinner orders because we did not want to eat sitting on the toilet , we were told no .","[('waitress', 'negative')]"

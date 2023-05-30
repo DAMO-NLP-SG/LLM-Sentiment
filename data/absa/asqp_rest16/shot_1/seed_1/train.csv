@@ -1,0 +1,5 @@
+text,label_text
+The wine list is extensive and can easily hike up an otherwise reasonably priced meal .,"[('drinks style_options', 'wine list', 'extensive', 'positive'), ('food prices', 'meal', 'reasonably priced', 'positive')]"
+Great sake !,"[('drinks quality', 'sake', 'Great', 'positive')]"
+"Best of all is the warm vibe , the owner is super friendly and service is fast .","[('ambience general', 'vibe', 'warm', 'positive'), ('service general', 'owner', 'friendly', 'positive'), ('service general', 'service', 'fast', 'positive')]"
+the drinks are amazing and half off till 8pm .,"[('drinks quality', 'drinks', 'amazing', 'positive'), ('drinks prices', 'drinks', 'amazing', 'positive')]"

@@ -1,0 +1,41 @@
+text,label_text
+There is a downside if you 're ordering in - the delivery guys have MAJOR attitude .,"[('delivery guys', 'negative')]"
+"It is terrific , as is the value .",[]
+"Very immature bartender , did n't know how to make specific drinks , service was so slowwwww , the food was not fresh or warm , waitresses were busy flirting with men at the bar and werent very attentive to all the customers .","[('bartender', 'negative'), ('service', 'negative'), ('food', 'negative'), ('waitresses', 'negative')]"
+"Just straight up cheap , good food .","[('food', 'positive')]"
+noodles with shrimp and chicken and coconut juice is the MUST !,"[('noodles with shrimp and chicken and coconut juice', 'positive')]"
+The food is great and they have a good selecion of wines at reasonable prices .,"[('food', 'positive'), ('selecion of wines', 'positive')]"
+My friend got the mushroom pizza which tasted better .,"[('mushroom pizza', 'positive')]"
+Restaurants in manhattan should try to model food and service after this place .,[]
+"For desserts , we tried the frozen black sesame mousse interesting but not extraordinary and matcha (powdered green tea) and blueberry cheesecake , which was phenomenal .","[('frozen black sesame mousse', 'neutral'), ('matcha (powdered green tea) and blueberry cheesecake', 'positive')]"
+The food was delicious but do not come here on a empty stomach .,"[('food', 'positive')]"
+The prices are wonderfully low .,[]
+"My friends settled for rice dishes , but we came back the following day to try the dim sum , which was goodnot outstanding , but good .","[('dim sum', 'neutral')]"
+"Fresh , mind blowing flavors .",[]
+We asked for beverages and never received them .,[]
+The one on the east side is much better than the one on the west side .,[]
+I take all my NYC guests to VT's .,"[(""VT's"", 'positive')]"
+The servers at Flatbush Farm appear to have perfected that ghastly technique of making you feel guilty and ashamed for deigning to attract their attention .,"[('servers', 'negative')]"
+Not a very fancy place but very good Chinese style Indian food .,"[('place', 'neutral'), ('Chinese style Indian food', 'positive')]"
+"The bibimbap was average , but the stone bowl was n't even close to sizzling .","[('bibimbap', 'neutral'), ('stone bowl', 'negative')]"
+My wife and I visited Dokebi tonight .,[]
+"Always a nice crowd , but never loud .","[('crowd', 'positive')]"
+The owner and staff are all Japanese as well and that adds to the entire ambiance .,"[('owner', 'positive'), ('staff', 'positive'), ('ambiance', 'positive')]"
+How do you rate home ?,[]
+The only thing I moderately enjoyed was their Grilled Chicken special with Edamame Puree .,"[('Grilled Chicken special with Edamame Puree', 'positive')]"
+I had a huge pastrami sandwich on a roll .,"[('pastrami sandwich on a roll', 'neutral')]"
+"Nice atmosphere , the service was very pleasant and the desert was good .","[('atmosphere', 'positive'), ('service', 'positive'), ('desert', 'positive')]"
+"the only things u could really taste are the very salty soy sauce even its low sodium , the vinegar-soaked rice , and the scallion on top of the fish .","[('soy sauce', 'negative'), ('rice', 'negative')]"
+"The lobster knuckles special of the day were ok , but pretty tasteless .","[('lobster knuckles', 'neutral')]"
+Delivery can be spot on or lacking depending on the weather and the day of the week .,"[('Delivery', 'negative')]"
+Maybe it has improved since then ?,[]
+"My girlfriend , being slightly more aggressive , and having been equally disgusted causing her to throw out the remainder of her barely eaten meal , called back only to be informed that I was probably wrong and that it was most likely an oyster , and that we were also blacklisted from their restaurant .","[('meal', 'negative')]"
+The food was ok and fair nothing to go crazy .,"[('food', 'neutral')]"
+Service is not what one would expect from a joint in this price category .,"[('Service', 'negative')]"
+Food was OK .,"[('Food', 'neutral')]"
+I am relatively new to the area and tried Pick a bgel on 2nd and was disappointed with the service and I thought the food was overated and on the pricey side .,"[('service', 'negative'), ('food', 'negative')]"
+"However , go for the ambience , and consider the food just a companion for a trip across the world !","[('ambience', 'positive'), ('food', 'neutral')]"
+I think the pizza is so overrated and was under cooked .,"[('pizza', 'negative')]"
+not sure why this restaurant would be rated that highly .,"[('restaurant', 'negative')]"
+"Overall , decent food at a good price , with friendly people .","[('food', 'neutral'), ('people', 'positive')]"
+Would NEVER go back,[]

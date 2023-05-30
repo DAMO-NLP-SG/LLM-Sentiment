@@ -1,0 +1,21 @@
+text,label_text
+"When the bill came , nothing was comped , so I told the manager very politely that we were willing to pay for the wine , but I did n't think I should have to pay for food with a maggot in it .",[]
+Service was also horrible and the ambience is not that great .,"[('Service', 'negative'), ('ambience', 'negative')]"
+A little pricey but it really hits the spot on a Sunday morning !,[]
+"However , if you want great food at a great price and do n't mind the decor , you ca n't beat this place .","[('food', 'positive'), ('decor', 'neutral')]"
+Try sushimi cucumber roll .,"[('sushimi cucumber roll', 'positive')]"
+Give it a try and enjoy .,[]
+Food was OK .,"[('Food', 'neutral')]"
+"The food was average to above-average ; the French Onion soup filling yet not overly impressive , and the desserts not brilliant in any way .","[('food', 'positive'), ('French Onion soup', 'negative'), ('desserts', 'negative')]"
+Service is not what one would expect from a joint in this price category .,"[('Service', 'negative')]"
+The real problem I had with this place was the complete lack of service .,"[('service', 'negative')]"
+"Overall , decent food at a good price , with friendly people .","[('food', 'neutral'), ('people', 'positive')]"
+Watch the talented belly dancers as you enjoy delicious baba ganoush that 's more lemony than smoky .,"[('belly dancers', 'positive'), ('baba ganoush', 'positive')]"
+sometimes i get good food and ok service .,"[('food', 'positive'), ('service', 'neutral')]"
+"The Four Seasons has history and it is a sort of landmark of New York City restaurants , but trust me , they will charge you through the nose just so that you can say I 've been to the four seasons restaurant .","[('The Four Seasons', 'neutral')]"
+"I 'm not picky , but it was actually gross .",[]
+"We recently decided to try this location , and to our delight , they have outdoor seating , perfect since I had my yorkie with me .","[('outdoor seating', 'positive')]"
+The menu is limited but almost all of the dishes are excellent .,"[('menu', 'negative'), ('dishes', 'positive')]"
+We wo n't go to this place again for a good meal .,"[('meal', 'negative')]"
+Will give it another chance before I write it off .,[]
+We waited at the bar and had martinis that were just right .,"[('martinis', 'positive')]"

@@ -1,0 +1,4 @@
+text,label_text
+Personal pans are the perfect size for those hungry nights .,"[('Personal pans', 'perfect', 'positive')]"
+"lobster was good , nothing spectacular .","[('lobster', 'good', 'neutral'), ('lobster', 'nothing spectacular', 'neutral')]"
+"Considering you will spend at least $ 60 a head , I expect better service .","[('service', 'expect better', 'negative')]"

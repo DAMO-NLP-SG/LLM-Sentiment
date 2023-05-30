@@ -1,0 +1,4 @@
+text,label_text
+"the only things u could really taste are the very salty soy sauce ( even its low sodium ) , the vinegar-soaked rice , and the scallion on top of the fish .","[('soy sauce', 'salty', 'negative'), ('rice', 'vinegar-soaked', 'negative')]"
+"Food was okay , nothing great .","[('Food', 'okay', 'neutral'), ('Food', 'nothing great', 'neutral')]"
+"We recently decided to try this location , and to our delight , they have outdoor seating , perfect since I had my yorkie with me .","[('outdoor seating', 'perfect', 'positive')]"

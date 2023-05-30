@@ -1,0 +1,501 @@
+original_index,text,label_text
+696,Hopefully my replacement is brand new .,[]
+667,My bag just got a little lighter .,[]
+63,"I can never go back to a PC now , this machine never freezes or has any problems .",[]
+533,It is pretty snappy and starts up in about 30 seconds which is good enough for me .,"[('starts up', 'positive')]"
+66,I was extremely happy with the OS itself .,"[('OS', 'positive')]"
+621,It is very fast and has everything that I need except for a word program .,"[('word program', 'negative')]"
+346,"! Excelent performance , usability , presentation and time response .","[('performance', 'positive'), ('usability', 'positive'), ('presentation', 'positive'), ('time response', 'positive')]"
+490,"I want the portability of a tablet , without the limitations of a tablet and that 's where this laptop comes into play .","[('portability', 'positive')]"
+760,"The built quality is really good , I was so Happy and excited about this Product .","[('built quality', 'positive')]"
+456,I purchased a MacBook Pro and this to replace a couple of HP units that I was using .,[]
+65,The receiver was full of superlatives for the quality and performance .,"[('quality', 'positive'), ('performance', 'positive')]"
+286,"It certainly does , but you rarely hear any of your friends with Mac 's complain about anything .",[]
+635,"Yes , the MBP is more expensive than competing PC laptops .",[]
+67,I was looking for something in between a regular laptop and a tablet and this is it .,[]
+327,it definitely beats my old mac and the service was great .,"[('service', 'positive')]"
+395,See retired recently and decided that she wanted a laptop .,[]
+244,it does get hot when using on a bed or sofa and gets warm on a deskthis is in an un-air conditioned roomin air condition it gets slightly warm .,[]
+377,I just hope this expensive laptop does n't go dead like my friendsit did last him 5 good years before it bit the dust .,[]
+610,I have had a black macbook since 2007 .,[]
+526,Put a cover on it and is a little better but that is my only complaint .,"[('cover', 'neutral')]"
+658,Even though I could have gotten a pc twice the speed for the same price I still think there 's nothing like a Mac .,[]
+529,This is the third in a series of MacBooks starting with a Black MacBook .,[]
+622,Needs a CD/DVD drive and a bigger power switch .,"[('CD/DVD drive', 'neutral'), ('power switch', 'negative')]"
+721,It 's a decent computer for the price and hopefully it will last a long time .,"[('price', 'neutral')]"
+360,"Its seen in movies , sitcoms , prominent important people carry and use them and they are GREAT !",[]
+30,The baterry is very longer .,"[('baterry', 'positive')]"
+260,I purchased my first Mac and am glad I did .,[]
+637,"I also wanted Windows 7 , which this one has .","[('Windows 7', 'positive')]"
+746,It has enough memory and speed to run my business with all the flexibility that comes with a laptop .,"[('memory', 'positive'), ('speed', 'positive'), ('flexibility', 'positive')]"
+570,"When i finally held it in my hands i kissed it , yes i did .",[]
+215,I saw the Mini Mac at Best Buy and decided to get this as my replacement .,[]
+78,I have had it over a year now with out a Glitch of any kindI love the lit up keys and screen display thing is Fast and clear as can be .,"[('lit up keys', 'positive'), ('screen display', 'positive')]"
+578,Buy the separate RAM memory and you will have a rocket !,"[('RAM memory', 'positive')]"
+383,Then the system would many times not power down without a forced power-off .,"[('system', 'negative'), ('power down', 'negative')]"
+39,It 's annoying very much and I wo n't ever buy any Acer products .,[]
+23,But the mountain lion is just too slow .,"[('mountain lion', 'negative')]"
+692,It is EXTREMELY fast and never lags .,[]
+398,"Runs good and does the job , ca n't complain about that !","[('Runs', 'positive')]"
+796,I 'm done with WinDoze computers .,[]
+741,I only wish this mac had a CD/DVD player built in .,"[('CD/DVD player', 'neutral')]"
+139,It is really thick around the battery .,"[('battery', 'neutral')]"
+250,I Have been a Pc user for a very long time now but I will get used to this new OS .,"[('OS', 'neutral')]"
+174,"Its perfect , not much heavy .",[]
+323,It works great and I am so happy I bought it .,"[('works', 'positive')]"
+595,I had to install Mountain Lion and it took a good two hours .,"[('install Mountain Lion', 'negative')]"
+525,"The Like New condition of the iMac MC309LL/A on Amazon is at $ 900+ level only , and it is a Quad-Core 2.5 GHz CPU similar to the $ 799 Mini , with Radeon HD 6750M 512MB graphic card this mini is integrated Intel 4000 card , and it even comes with wireless Apple Keyboard and Mouse , all put together in neat and nice package .","[('Quad-Core 2.5 GHz CPU', 'neutral'), ('Radeon HD 6750M 512MB graphic card', 'neutral'), ('integrated Intel 4000 card', 'neutral'), ('wireless Apple Keyboard and Mouse', 'neutral'), ('package', 'positive')]"
+423,It is much better than the Acer ultrabook I had before .,[]
+596,Customization on mac is impossible .,"[('Customization', 'negative')]"
+604,The power plug has to be connected to the power adaptor to charge the battery but wo n't stay connected .,"[('power plug', 'negative'), ('power adaptor', 'neutral'), ('battery', 'neutral')]"
+534,The few things that are wrong with it are very minor things .,[]
+265,"The MAC Mini , wireless keyboard / mouse and a HDMI cable is all I need to get some real work done .","[('wireless keyboard / mouse', 'neutral'), ('HDMI cable', 'neutral')]"
+109,And the fact that Apple is driving the 13 RMBP with the Intel4000 graphic chip seems underpowered to me .,"[('Intel4000 graphic chip', 'negative')]"
+666,"Instead , I 'll focus more on the actual performance and feature set of the hardware itself so you can make an educated decision on which Mac to buy .","[('performance and feature set of the hardware', 'neutral')]"
+294,"Harddrive was in poor condition , had to replace it .","[('Harddrive', 'negative')]"
+336,USB3 Peripherals are noticably less expensive than the ThunderBolt ones .,"[('USB3 Peripherals', 'positive'), ('ThunderBolt', 'negative')]"
+368,"This Macbook Pro is fast , powerful , and runs super quiet and cool .","[('runs', 'positive')]"
+446,"The Mac mini is about 8x smaller than my old computer which is a huge bonus and runs very quiet , actually the fans are n't audible unlike my old pc","[('runs', 'positive'), ('fans', 'positive')]"
+333,It is really easy to use and it is quick to start up .,"[('use', 'positive'), ('start up', 'positive')]"
+198,Cheaper than buying it @ apple too !,[]
+168,"Honestly , I am surprised no one else has mentioned returning theirs .",[]
+481,"You can imagine that an expensive item as a laptop will not be left on your front steps , it needs signature to pove that you received it .",[]
+723,The worst a Mac ever did to me was freeze up .,[]
+655,"Then only FOUR months later , my great MacBook pro FAILED .",[]
+306,It is not an easy decision to purchase a used or even good as new laptop but I am very satisfied .,[]
+231,Can you buy any laptop that matches the quality of a MacBook ?,"[('quality', 'positive')]"
+422,I like coming back to Mac OS but this laptop is lacking in speaker quality compared to my $ 400 old HP laptop .,"[('Mac OS', 'positive'), ('speaker quality', 'negative')]"
+49,If someone called me an Apple Fanboyit would make sense .,[]
+787,packing and everything was perfect,"[('packing', 'positive')]"
+357,So much faster and sleeker looking .,"[('looking', 'positive')]"
+86,Incredible graphics and brilliant colors .,"[('graphics', 'positive'), ('colors', 'positive')]"
+545,The last new mac I bought was in 1998 .,[]
+192,Minis make sense for a lot of people .,[]
+795,This hardware seems to be better than the iMac in that it is n't $ 1400 and smaller .,"[('hardware', 'positive')]"
+33,"I know Apples are more expensive than PCs , but he thinks it is worth every penny .",[]
+31,And it 's so quiet that I do n't hear it at all .,[]
+199,I have just had to learn to be a little harder typer than on my last computer .,[]
+365,"I love this piece of equipment , It will be hard to go back to other type of laptop after using a MacBook Pro .",[]
+486,Graphics are much improved .,"[('Graphics', 'positive')]"
+594,No HDMI port .,"[('HDMI port', 'neutral')]"
+568,Boot-up slowed significan'tly after all Windows updates were installed .,"[('Boot-up', 'negative'), ('Windows updates', 'negative')]"
+428,The performance is definitely superior to any computer I 've ever put my hands on .,"[('performance', 'positive')]"
+137,I will also say it is much better than I expected !,[]
+72,"MS Office 2011 for Mac is wonderful , well worth it .","[('MS Office 2011 for Mac', 'positive')]"
+77,They do n't just look good ; they deliver excellent performance .,"[('look', 'positive'), ('performance', 'positive')]"
+512,Not super light but still a good one .,[]
+783,"After replacing the spinning hard disk with an ssd drive , my mac is just flying .","[('spinning hard disk', 'neutral'), ('ssd drive', 'positive')]"
+786,Added an iMac about 2 years later .,[]
+275,The machine is speedy and efficient .,[]
+361,"First off , I really do like my MBP once used to the OS it is pretty easy to get around , and the overall build is great eg the keyboard is one of the best to type on .","[('OS', 'positive'), ('overall build', 'positive'), ('keyboard', 'positive')]"
+96,Once you get past learning how to use the poorly designed Windows 8 Set-Up you may feel frustrated .,"[('Windows 8 Set-Up', 'negative')]"
+641,It just works out of the box and you have a lot of cool software included with the OS .,"[('works', 'positive'), ('software', 'positive'), ('OS', 'neutral')]"
+715,"I had to buy a wireless mouse to go with it , as I am old school and hate the pad , but knew that before I bought it , now it works great , need to get adjusted to the key board , as I am used to a bigger one and pounding .","[('wireless mouse', 'neutral'), ('pad', 'negative'), ('works', 'positive'), ('key board', 'neutral')]"
+281,The old unibody macbook pro could fry an egg after a while .,[]
+393,so when I had the money to buy one I bought other things insteada 700 laptop and some extra stuff with it .,[]
+628,Words can not express how much I love my new Mac .,[]
+608,if yo like practicality this is the laptop for you .,"[('practicality', 'positive')]"
+705,Fits all my personal needs .,[]
+754,i have dropped mine a couple times with only a slim plastic case covering it .,"[('slim plastic case', 'neutral')]"
+54,"I have no problems yet on my mac so far , and hope it stays like that .",[]
+750,"The battery life is excellent , the display is excellent , and downloading apps is a breeze .","[('battery life', 'positive'), ('display', 'positive'), ('downloading apps', 'positive')]"
+155,Very nice so far .,[]
+432,There were small problems with Mac office .,"[('Mac office', 'negative')]"
+97,Very powerful especially for the money .,[]
+120,"I am having a friend look at it , but will probably return it .",[]
+76,"I believe with Apple , you get what you pay for .",[]
+204,"Besides , the apple stocks have been falling due to lack of sales .",[]
+352,I like the operating system .,"[('operating system', 'positive')]"
+764,Great deal on an amazing lap top !,[]
+208,But I 'm still learning so ca n't rate it yet for everything .,[]
+367,Very disappointed with Apple .,[]
+425,I finally own a piece of computing equipment that I do n't want to take a baseball bat and destroy .,[]
+515,i had to return it for a replacement .,[]
+84,I would suggest this product to anyone .,[]
+10,"Works well , and I am extremely happy to be back to an apple OS .","[('Works', 'positive'), ('apple OS', 'positive')]"
+720,I called apple and no solution .,[]
+110,I have to wonder why Amazon is even selling this dinosaur .,[]
+521,"Every day I had this computer , something failed on it .",[]
+777,I had to get Apple Customer Support to correct the problem .,"[('Apple Customer Support', 'neutral')]"
+209,"Overall very impressed , Thank you Apple and Amazon !",[]
+235,It is very easy to navigate even for a novice .,"[('navigate', 'positive')]"
+316,"Nice screen , keyboard works great !","[('screen', 'positive'), ('keyboard', 'positive')]"
+388,"Its the best , its got the looks , super easy to use and love all you can do with the trackpad ! .","[('looks', 'positive'), ('use', 'positive'), ('trackpad', 'positive')]"
+118,Exactly as posted plus a great value .,"[('value', 'positive')]"
+719,The only thing I dislike about this laptop are the rubber pads found on the bottom of the computer for grip .,"[('rubber pads', 'negative')]"
+210,"Yes , that 's a good thing , but it 's made from aluminum that scratches easily .","[('aluminum', 'negative')]"
+254,I previously owned an older Dell laptop that died after about 5 or 6 years .,[]
+591,The MacBook Pro is a great product which can meet the needs of the average consumer .,[]
+29,And I may be the only one but I am really liking Windows 8 .,"[('Windows 8', 'positive')]"
+266,I finally pulled the trigger and I am blown away by how much more I enjoy my computer tasks using the Mac Mini ! ! !,[]
+656,"If you ask me , for this price it should be included .","[('price', 'negative')]"
+662,All you get is a box and a computer .,[]
+296,It 's a nice little gadget .,[]
+81,"However , I can refute that OSX is FAST .","[('OSX', 'negative')]"
+688,"Solution , it turned out to be pretty simple .",[]
+302,It is the best all around Mac .,[]
+506,OSX Lion is a great performerextremely fast and reliable .,"[('OSX Lion', 'positive')]"
+758,I do admit it is pricey but the saying is really true with this MacBook Pro Laptop You get what you pay for .,[]
+314,I have been PC for years but this computer is intuitive and its built in features are a great help,"[('built in features', 'positive')]"
+644,"Replaced this one with my mac that was stolen , its a great computer .",[]
+409,"I just bought the new MacBook Pro , the 13 model , and I ca n't believe Apple keeps making the same mistake with regard to USB ports .","[('USB ports', 'negative')]"
+211,Very fast for my needs .,[]
+532,i FINALLY DID IT AND THIS MACHINE IS THE WAY TO GO !,[]
+483,"Yes , he is a self professed Mac snob .",[]
+218,So glad I did not waste money on a less than par product .,[]
+7,excellent in every way .,[]
+464,I think that was a great decision to buy,[]
+101,I have always wanted a MacBook Proalways ! .,[]
+326,"Apple is living up to its name with the mini and , for our needs , it 's perfect .",[]
+652,"The sound as mentioned earlier is n't the best , but it can be solved with headphones .","[('headphones', 'neutral')]"
+537,It 's a lottery at this point as I have read that other have received new ones with the same problem .,[]
+640,They replaced it and so far so good .,[]
+2,but in resume this computer rocks !,[]
+738,Very happy with my purchase .,[]
+776,"The OS is easy , and offers all kinds of surprises .","[('OS', 'positive')]"
+519,Got this Mac Mini with OS X Mountain Lion for my wife .,"[('OS X Mountain Lion', 'neutral')]"
+589,"The Dell Inspiron is fast and has a number pad on the keyboard , which I miss on my Apple laptops .","[('number pad on the keyboard', 'positive')]"
+798,the latest version does not have a disc drive .,"[('disc drive', 'neutral')]"
+744,"So happy with this purchase , I just wish it came with Microsoft Word .","[('Microsoft Word', 'neutral')]"
+513,The Mini 's body has n't changed since late 2010 and for a good reason .,"[('body', 'positive')]"
+670,"Other ports include FireWire 800 , Gigabit Ethernet , MagSafe port , Microphone jack .","[('ports', 'neutral'), ('FireWire 800', 'neutral'), ('Gigabit Ethernet', 'neutral'), ('MagSafe port', 'neutral'), ('Microphone jack', 'neutral')]"
+264,They really screwed the pooch on this one .,[]
+615,The troubleshooting said it was the AC adaptor so we ordered a new one .,"[('AC adaptor', 'neutral')]"
+329,Web browsing is very quick with Safari browser .,"[('Web browsing', 'positive'), ('Safari browser', 'positive')]"
+342,"The battery lasts as advertised give or take 15-20 minutes , and the entire user experience is very elegant .","[('battery', 'positive'), ('user experience', 'positive')]"
+394,"This item is a beautiful piece , it works well , it is easy to carry and handle .","[('works', 'positive'), ('carry', 'positive'), ('handle', 'positive')]"
+79,The product is prefect for everyone .,[]
+148,But I do NOT like Win8 .,"[('Win8', 'negative')]"
+350,"In fact I still use manyASPECT0 Appleworks , FileMaker Pro , Quicken , Photoshop etc !","[('Appleworks', 'neutral'), ('FileMaker Pro', 'neutral'), ('Quicken', 'neutral'), ('Photoshop', 'neutral')]"
+382,This was a great deal for a decked out MacBook Pro .,[]
+440,You can read all about the details of this marvelous computer on wikipedia .,[]
+309,"Even if you do n't do business , thats okay , it 's incredibly fast .",[]
+707,and its not hard to accidentally bang it against something so i recommend getting a case to protect it .,"[('case', 'neutral')]"
+133,Also stunning colors and speedy,"[('colors', 'positive')]"
+381,Price was higher when purchased on MAC when compared to price showing on PC when I bought this product .,"[('Price', 'negative'), ('price', 'positive')]"
+213,Quick and has built in virus control .,"[('built in virus control', 'positive')]"
+659,Seems a much more economical way to get into Apple than their other computers .,[]
+55,This laptop is a great buy .,[]
+736,"working with Mac is so much easier , so many cool features .","[('working', 'positive'), ('features', 'positive')]"
+620,"There is no ""tools"" menu .","[('""tools"" menu', 'neutral')]"
+582,"WiFi capability , disk drive and multiple USB ports to connect scale and printers was all that was required .","[('WiFi capability', 'positive'), ('disk drive', 'positive'), ('USB ports', 'positive')]"
+673,"Additionally , there is barely a ventilation system in the computer , and even the simple activity of watching videos let alone playing steam games causes the laptop to get very very hot , and in fact impossible to keep on lap .","[('ventilation system', 'negative'), ('watching videos', 'neutral'), ('playing steam games', 'neutral')]"
+527,Within a few hours I was using the gestures unconsciously .,"[('gestures', 'positive')]"
+196,"I bought this MacBook Pro to replace my six-year-old PC a Sony Vaio , but it was basically no better than my old PC , so I returned it .",[]
+713,I saw the bad reviews from people saying to buy directly from Apple and I was concerned but I took my chances and am overly impressed .,[]
+689,With the softwares supporting the use of other OS makes it much better .,"[('softwares', 'neutral'), ('OS', 'neutral')]"
+60,It has all the expected features and more +plus a wide screen and more than roomy keyboard .,"[('features', 'positive'), ('screen', 'positive'), ('keyboard', 'positive')]"
+576,Runs real quick .,"[('Runs', 'positive')]"
+631,Its everything mac offers .,[]
+431,I like the design and its features but there are somethings I think needs to be improved .,"[('design', 'positive'), ('features', 'positive')]"
+603,It was quite easy .,[]
+442,"Note , however , that any existing MagSafe accessories you have will not work with the MagSafe 2 connection .","[('MagSafe accessories', 'neutral'), ('MagSafe 2 connection', 'negative')]"
+436,"It still works and it 's extremely user friendly , so I would recommend it for new computer user and also for those who are just looking for a more efficient way to do things","[('works', 'positive')]"
+247,I had my PC laptop for 3 years and going to a MacBook Pro is like I leaped through time .,[]
+586,First of all yes this is a mac and it has that nice brushed aluminum .,"[('aluminum', 'positive')]"
+569,More likely it will require replacing the logic board once they admit they have a problem and come up with a solution .,"[('logic board', 'negative')]"
+90,"Cons , Screen resolution .","[('Screen resolution', 'negative')]"
+650,"I was a little concerned about the touch pad based on reviews , but I 've found it fine to work with .","[('touch pad', 'positive')]"
+181,So this is very good commputer and i highly suggest it .,[]
+790,"I seem to be having repeat problems as the Mother Board in this one is diagnosed as faulty , related to the graphics card .","[('Mother Board', 'negative'), ('graphics card', 'negative')]"
+554,All my devises talk to each other .,[]
+290,"Apple ""Help"" is a mixed bag .","[('Apple ""Help""', 'negative')]"
+158,"I found the mini to be , Exceptionally easy to set up","[('set up', 'positive')]"
+69,Great purchase and I definitely did n't miss out on the Black Friday deals .,[]
+517,It completely supports my home business and personal life .,[]
+131,I bought this Macbook Pro from Best Buy under a year ago to replace my old Macbook Air .,[]
+44,It 's not inexpensive but the Hardware performance is impressive for a computer this small .,"[('Hardware performance', 'positive')]"
+70,"The criticism has waned , and now I 'd be the first to recommend an Air for truly portable computing .","[('portable computing', 'positive')]"
+691,"I then upgraded to Mac OS X 10.8 ""Mountain Lion"" .","[('Mac OS X 10.8 ""Mountain Lion""', 'neutral')]"
+355,I have n't used the product long enough to write a detailed technical review .,[]
+444,"The only thing I dislike is the touchpad , alot of the times its unresponsive and does things I do n't want it too , I would recommend using a mouse with it .","[('touchpad', 'negative'), ('mouse', 'neutral')]"
+761,I am loving the fast performance also .,"[('performance', 'positive')]"
+135,great price free shipping what else can i ask for ! !,"[('price', 'positive'), ('shipping', 'positive')]"
+82,I waited to review to make sure it is what it is .,[]
+165,HUGE Apple MAC Fan !,[]
+164,Great things come in small packages .,[]
+28,I will never go back to a PC again !,[]
+448,It came before the day it supposed to which is great .,[]
+193,"The performance seems quite good , and built-in applications like iPhoto work great with my phone and camera .","[('performance', 'positive'), ('built-in applications', 'positive'), ('iPhoto', 'positive')]"
+239,Great Performance and Quality .,"[('Performance', 'positive'), ('Quality', 'positive')]"
+724,The nicest part is the low heat output and ultra quiet operation .,"[('heat output', 'positive'), ('operation', 'positive')]"
+730,A lot of features and shortcuts on the MBP that I was never exposed to on a normal PC .,"[('features', 'neutral'), ('shortcuts', 'neutral')]"
+136,This mouse is terrific .,"[('mouse', 'positive')]"
+664,Its only crashed on me one time in the 3 months i 've had it .,[]
+311,This was absolutely annoying !,[]
+140,And windows 7 works like a charm .,"[('windows 7', 'positive')]"
+473,It 's also very pricey but you just have to tell yourself it 's an investment and that it 's gon na last you a long time .,[]
+6,"Other than not being a fan of click pads industry standard these days and the lousy internal speakers , it 's hard for me to find things about this notebook I do n't like , especially considering the $ 350 price tag .","[('click pads', 'negative'), ('internal speakers', 'negative'), ('price tag', 'positive')]"
+728,The price is 200 dollars down .,"[('price', 'positive')]"
+755,I also made a recovery USB stick .,"[('recovery USB stick', 'neutral')]"
+73,"After using it for over a month , an issue started to surface .",[]
+559,I was given a demonstration of Windows 8 .,"[('Windows 8', 'neutral')]"
+299,It 's macbook pro and there is no discusion about it .,[]
+145,"The price is higher than most lab top out there ; however , he/she will get what they paid for , which is a great computer .",[]
+292,It suddenly can not work .,"[('work', 'negative')]"
+234,"Though please note that sometimes it crashes , and the sound quality isnt superb .","[('sound quality', 'negative')]"
+220,The one thing that Apple does right is computers .,[]
+450,It 's absolutely wonderful and worth the price !,"[('price', 'positive')]"
+380,Its worth every Penny .,[]
+132,The macbook pro is really responsive .,[]
+375,"It should n't happen like that , I do n't have any design app open or anything .","[('design app', 'neutral')]"
+404,This is especially disheartening when Apple prides itself as the choice of creative professionals .,[]
+522,"fast , great screen , beautiful apps for a laptop ; priced at 1100 on the apple website ; amazon had it for 1098+ tax , plus i had a 10 % off coupon from amazon-ASPECT3 me 998 plus tax 1070 OTD !","[('screen', 'positive'), ('apps', 'positive'), ('priced', 'neutral')]"
+749,I found it toughest to decide between Dell ultra books and Apple .,[]
+426,The thunderbolt port is awesome !,"[('thunderbolt port', 'positive')]"
+41,It has so much more speed and the screen is very sharp .,"[('speed', 'positive'), ('screen', 'positive')]"
+495,I got the new adapter and there was no change .,"[('adapter', 'neutral')]"
+108,Nothing wrong with this computer at all !,[]
+344,$ 99900 Tax free .,[]
+56,Biggest complaint is Windows 8 .,"[('Windows 8', 'negative')]"
+259,I had a little problem adjusting to the small screen but works fine as long as I remember to carry my glasses .,[]
+479,"Also , in using the built-in camera , my voice recording for my vlog sounds like the interplanetary transmissions in the Star Wars saga .","[('built-in camera', 'neutral'), ('voice recording', 'negative')]"
+625,Was skeptical about buying an electronic item online but it turned out to be a positive experience .,[]
+227,My laptop is so light that I can take it with me anywhere .,[]
+212,I bought this Mac in order to replace my old Dell laptop .,[]
+593,This one still has the CD slot .,"[('CD slot', 'neutral')]"
+332,It 's great to have a solid Mac in the living room .,[]
+24,Strong build though which really adds to its durability .,"[('build', 'positive'), ('durability', 'positive')]"
+780,"I like iTunes , the apparent security , the Mini form factor , all the nice graphics stuff .","[('iTunes', 'positive'), ('security', 'positive'), ('Mini form factor', 'positive'), ('graphics stuff', 'positive')]"
+351,"It 's small but powerful , light but strong , elegant and beautiful In resume , it 's a Mac ! .",[]
+356,It 's fast at loading the internet .,"[('loading the internet', 'positive')]"
+51,"A scratch on a $ 1,500 MacBook is unforgivable .",[]
+331,I like the lighted screen at night .,"[('lighted screen', 'positive')]"
+733,air has higher resolution but the fonts are small .,"[('resolution', 'positive'), ('fonts', 'negative')]"
+629,The speakers could have been better but it was n't a deal breaker this is a great little laptop love it ! .,[]
+501,"Logic board utterly fried , cried , and laid down and died .","[('Logic board', 'positive')]"
+334,I 've lived with the crashes and slow operation and restarts .,"[('operation', 'negative')]"
+285,"I 'm using this computer for word processing , web browsing , some gaming , and I 'm learning programming .","[('word processing', 'neutral'), ('web browsing', 'neutral'), ('gaming', 'neutral'), ('programming', 'neutral')]"
+18,I had gotten this model for $ 119900 on my State 's tax-free weekend and had a $ 100 off coupon for a MacBook at the local BestBuy ! .,[]
+584,"Soft touch , anodized aluminum with laser cut precision and no flaws .","[('touch', 'positive'), ('anodized aluminum', 'positive')]"
+748,I love everything about this computer .,[]
+83,Enjoy using Microsoft Office !,"[('Microsoft Office', 'positive')]"
+61,"Out of all the laptops I have owned , this is by far the best !",[]
+462,I was always against them but now I buying one I 'll never go back to PC .,[]
+291,All I can say is I am impressed .,[]
+447,MAYBE The Mac OS improvement were not The product they Want to offer .,"[('Mac OS', 'negative')]"
+182,the mbp i recieved was everything it should have been .,[]
+549,The audio volume is quite low and virtually unusable in a room with any background activity .,"[('audio volume', 'negative')]"
+500,It 's all a bit magical .,[]
+223,I think that they are the best out on the market .,[]
+424,Shipped very quickly and safely .,"[('Shipped', 'positive')]"
+467,"I paid for a new laptop , but was sent a used one .",[]
+319,Good computer and fast .,[]
+328,I went from a Macbook to this Mac Mini and this was a great upgrade !,[]
+443,"If you get a lemon I have two thirds of my Macs , you have to send it in for repairs several times before they will replace it , even if they have numerous problems with the same version of their computers .",[]
+493,When it broke I wanted another Acer and chose the V5 .,[]
+176,I find it not to be very user friendly .,[]
+676,It 's been a couple weeks since the purchase and I 'm struggle with finding the correct keys but that was expected .,"[('keys', 'neutral')]"
+363,Buy the Mac Mini it 's a terribly great machine .,[]
+163,This was the same problem with my MacBook circa 2007 that I just retired .,[]
+248,On start up it asks endless questions just so itune can sell you more of their products .,"[('start up', 'negative'), ('itune', 'negative')]"
+518,3D rendering slows it down considerably .,"[('3D rendering', 'negative')]"
+710,"Every time I log into the system after a few hours , there is this endlessly frustrating process that I have to go through .","[('log into the system', 'negative')]"
+74,But the performance of Mac Mini is a huge disappointment .,"[('performance', 'negative')]"
+643,its as advertised on here it works great and is not a waste of money ! .,"[('works', 'positive')]"
+405,Apple is aware of this issue and this is either old stock or a defective design involving the intel 4000 graphics chipset .,"[('design', 'neutral'), ('intel 4000 graphics chipset', 'neutral')]"
+104,"Overall it 's an amazing product , 5 stars !",[]
+114,The durability of the laptop will make it worth the money .,"[('durability', 'positive')]"
+300,I 'm hoping the rest of the features will be the signature quality of apple .,[]
+92,I really like the size and I 'm a fan of the ACERS .,"[('size', 'positive')]"
+411,It wakes in less than a second when I open the lid .,"[('wakes', 'positive'), ('lid', 'neutral')]"
+89,Built-in apps are purely amazing .,"[('Built-in apps', 'positive')]"
+528,This mac does come with an extender cable and I 'm using mine right now hoping the cable will stay nice for the many years I plan on using this mac .,"[('extender cable', 'neutral'), ('cable', 'positive')]"
+734,again this is just my personal honest opinion .,[]
+743,"The only thing I miss are the ""Home/End"" type keys and other things that I grew accustomed to after so long .","[('""Home/End"" type keys', 'neutral')]"
+575,It 's shiny and it 's pretty .,[]
+497,"Nothing about it that i do n't love , apple always makes a great product .",[]
+494,The technical support was not helpful as well .,"[('technical support', 'negative')]"
+11,This mac has been a problem since we got it .,[]
+433,It is extremely fast and very compact .,[]
+43,Everything I wanted and everything I needed and the price was great !,"[('price', 'positive')]"
+42,"As for the laptop , this is our 3rd Apple computer in the past 2 years .",[]
+167,The settings are not user-friendly either .,"[('settings', 'negative')]"
+703,"I have three words , Piece of Junk !",[]
+613,"If that is the case , then I am completely happy",[]
+412,It is the perfect size and speed for me .,"[('size', 'positive'), ('speed', 'positive')]"
+178,"However , there are MAJOR issues with the touchpad which render the device nearly useless .","[('touchpad', 'negative')]"
+530,The 2.9ghz dual-core i7 chip really out does itself .,"[('2.9ghz dual-core i7 chip', 'positive')]"
+539,This newer netbook has no hard drive or network lights .,"[('hard drive', 'neutral'), ('network lights', 'neutral')]"
+177,It has surpassed all expectations and fulfilled all my needs .,[]
+665,The Mac Mini is probably the simplest example of compact computing out there .,"[('compact computing', 'positive')]"
+766,Best money I ever spent .,[]
+257,The new os is great on my macbook pro !,"[('os', 'positive')]"
+765,If you start on the far right side and scroll to your left the start menu will automatically come up .,"[('start menu', 'neutral')]"
+543,I would say that 85 % of the design industry is Mac for good reason .,[]
+15,Made interneting part of my business very difficult to maintain .,"[('interneting', 'negative')]"
+3,Set up was easy .,"[('Set up', 'positive')]"
+335,Very light and easily maneuverable .,[]
+256,I never tried any external mics with that iMac .,"[('external mics', 'neutral')]"
+580,"Bottom line , if you can afford it , get a Mac !",[]
+445,"Yeah , it 's super expensive .",[]
+338,And mine had broke but I sent it in under warranty problems .,"[('warranty', 'positive')]"
+478,It is a great computer for that and I have to say I 'm happy I switched .,[]
+417,"However , it did not have any scratches , ZERO battery cycle count pretty surprised , and all the hardware seemed to be working perfectly .","[('battery cycle count', 'positive'), ('hardware', 'positive')]"
+638,"At first , I feel a little bit uncomfortable in using the Mac system .","[('Mac system', 'negative')]"
+714,"The case is now slightly larger than the previous generation , but the lack of an external power supply justifies the small increase in size .","[('case', 'negative'), ('external power supply', 'neutral')]"
+324,Let me start off by saying that I was highly reluctant to spend so much money on a laptop .,[]
+457,"you will not regret it , promise you !",[]
+9,"It 's fast , light , and simple to use .","[('use', 'positive')]"
+249,Pretty much made sense to get a Mini .,[]
+22,It is super fast and has outstanding graphics .,"[('graphics', 'positive')]"
+221,"the hardware problems have been so bad , i ca n't wait till it completely dies in 3 years , TOPS !","[('hardware', 'negative')]"
+547,Not too expense and has enough storage for most users and many ports .,"[('storage', 'positive'), ('ports', 'positive')]"
+690,Still have n't solved this .,[]
+784,I know some people complained about HDMI issues but they released a firmware patch to address that issue .,"[('HDMI', 'neutral'), ('firmware patch', 'neutral')]"
+626,Not a scratch or mark on it .,[]
+340,"It 's fast , light , and is perfect for media editing , which is mostly why I bought it in the first place .","[('media editing', 'positive')]"
+671,I stayed up half the night enjoying my new MacBook Pro .,[]
+203,Does everything I wanted this laptop to do .,[]
+237,The cons are more annoyances that can be lived with .,[]
+93,"This is by far thee best , most reliable computer I could find .",[]
+531,My life has been enriched since I have been using Apple products .,[]
+362,Does exactly what I bought it 4 .,[]
+544,"I was having a though time deciding between the 13 MacBook Air or the MacBook Pro 13 Both baseline models , priced at 1,200 $ retail","[('priced', 'neutral')]"
+284,Could n't have asked for more !,[]
+184,Not as fast as I would have expect for an i5 .,"[('i5', 'negative')]"
+649,This was a gift for my grand son .,[]
+396,"It was also suffering from hardware (keyboard) issues , relatively slow performance and shortening battery lifetime .","[('hardware (keyboard)', 'negative'), ('performance', 'negative'), ('battery lifetime', 'negative')]"
+153,"I wanted it for it 's mobility and man , this little bad boy is very nice .","[('mobility', 'positive')]"
+75,There has been no problem with anything .,[]
+453,Buying a Mac Mini would allow me to make the transition .,[]
+695,"At home and the office it gets plugged into an external 24"" LCD screen , so built in screen size is not terribly important .","[('external 24"" LCD screen', 'neutral'), ('built in screen size', 'neutral')]"
+277,A *big* upgrade from my 13 2006 macbook .,[]
+68,The new MBP offers great portability and gives us confidence that we are not going to need to purchase a new laptop in 18 months .,"[('portability', 'positive')]"
+514,The unibody construction really does feel lot more solid than Apple 's previous laptops .,"[('unibody construction', 'positive')]"
+188,It s heavy for Mac book but is good .,[]
+271,I am very happy with my first Mac .,[]
+236,"But until now , no complains at all .",[]
+88,Just bit the bullet and bought the Mac hoping it will last a lot longer .,[]
+762,I had to return it because it would n't even start .,[]
+117,"But I was completely wrong , this computer is UNBELIEVABLE amazing and easy to use .","[('use', 'positive')]"
+125,This is my first apple laptop .,[]
+660,Shipping was quick and product described was the product sent and so much more .,"[('Shipping', 'positive')]"
+289,"I wanted a computer that was quite , fast , and that had overall great performance .","[('performance', 'neutral')]"
+238,"Does everything I need it to , has a wonderful battery life and I could n't be happier .","[('battery life', 'positive')]"
+0,"Boot time is super fast , around anywhere from 35 seconds to 1 minute .","[('Boot time', 'positive')]"
+791,It also comes with 4G of RAM but if you 're like me you want to max that out so I immediately put 8G of RAM in her and I 've never used a computer that performs better .,"[('4G of RAM', 'neutral'), ('8G of RAM', 'neutral'), ('performs', 'positive')]"
+602,The SuperDrive is quiet .,"[('SuperDrive', 'positive')]"
+794,also excellent operating system size and weight for optimal mobility excellent durability of the battery the functions provided by the trackpad is unmatched by any other brand- .,"[('operating system size', 'positive'), ('weight', 'positive'), ('mobility', 'positive'), ('durability of the battery', 'positive'), ('functions provided by the trackpad', 'positive')]"
+465,"The OS is fast and fluid , everything is organized and it 's just beautiful .","[('OS', 'positive')]"
+278,It 's just what we were looking for and it works great .,"[('works', 'positive')]"
+624,My laptop with Windows 7 crashed and I did not want Windows 8 .,"[('Windows 7', 'negative'), ('Windows 8', 'negative')]"
+116,And now I am a proud MacBook owner also !,[]
+228,"it 's exactly what i wanted , and it has all the new features and whatnot .","[('features', 'positive')]"
+756,Being a PC user for many years to switch to a Mac I will not go back .,[]
+420,And as for all the fancy finger swipes - I just gave up and attached a mouse .,"[('finger swipes', 'negative'), ('mouse', 'neutral')]"
+434,I understand I should call Apple Tech Support about any variableswhich is my purpose of writing this con as variables could be a bigger future problem .,"[('Apple Tech Support', 'neutral')]"
+274,The only issue came when I tried scanning to the mac .,"[('scanning', 'negative')]"
+318,I was amazed at how fast the delivery was .,"[('delivery', 'positive')]"
+551,In the short time of one month since the 2012 Mac Mini was released there are well over 1000 posts regarding this issue and the numbers keep rising .,[]
+144,tried windows 8 and hated it ! ! !,"[('windows 8', 'negative')]"
+648,Premium price for the OS more than anything else .,"[('price', 'positive'), ('OS', 'neutral')]"
+735,If you have much higher expectations than that I would look elsewhere .,[]
+726,NO STAR FOR THIS TRASH [ .,[]
+585,"Simple details , crafted aluminium and real glass make this laptop blow away the other plastic ridden , bulky sticker filled laptops .","[('aluminium', 'positive'), ('glass', 'positive')]"
+369,"***The review below is no longer relevant , Apple has fixed the issue .",[]
+268,"I work as a designer and coder and I needed a new buddy to work with , not gaming .","[('gaming', 'neutral')]"
+567,I was so excited to get this in the mail i nearly gave myself a heart attack .,[]
+307,If you want more information on macs I suggest going to applecom and heading towards the macbook page for more information on the applications .,"[('applications', 'neutral')]"
+310,It is fast and easy to use .,"[('use', 'positive')]"
+451,"It 's a good fix , in my opinion .",[]
+46,"This thing is awesome , everything always works , everything is always easy to set up , everything is compatible , its literally everything I could ask for .","[('works', 'positive'), ('set up', 'positive')]"
+349,"But for now , this laptop is still a workhorse .",[]
+371,"There is no HDMI receptacle , nor is there an SD card slot located anywhere on the device .","[('HDMI receptacle', 'neutral'), ('SD card slot', 'neutral')]"
+523,1244 seconds to boot .,"[('boot', 'neutral')]"
+261,"I have experienced no problems , works as anticipated .","[('works', 'positive')]"
+195,I did swap out the hard drive for a Samsung 830 SSD which I highly recommend .,"[('hard drive', 'neutral'), ('Samsung 830 SSD', 'positive')]"
+799,"Screen , although some people might complain about low res which I think is ridiculous .","[('Screen', 'positive'), ('res', 'positive')]"
+672,This laptop is a 100 times better than a Chromebook !,[]
+107,Amazing product as you would expect from Apple .,[]
+59,This device has met my expectations and I 'm sure it will meet yours .,[]
+599,I am replacing the HD with a Micron SSD soon .,"[('HD', 'neutral'), ('Micron SSD', 'neutral')]"
+439,I have n't tried the one with retina display Maybe in the future .,"[('retina display', 'neutral')]"
+100,This was a significan'tly more affordable than getting a new MacBook Pro from Apple .,[]
+477,"So , I 'm cooled on Mac buys .",[]
+718,A great college tool !,[]
+583,"The SD card reader is slightly recessed and upside down the nail slot on the card can not be accessed , if this was a self ejecting slot this would not be an issue , but its not .","[('SD card reader', 'negative'), ('nail slot on the card', 'negative'), ('slot', 'negative')]"
+737,I 'm going to buy a logitevh c270 .,[]
+179,What angers me more than anything else is that I spent all those years hating MACs when I could have been getting a lot more production with a whole lot less grief !,[]
+304,Also is portable and reliable .,[]
+429,It 's great for streaming video and other entertainment uses .,"[('streaming video', 'positive'), ('entertainment uses', 'positive')]"
+507,Best commuter I have ever owned .,[]
+770,can never go wrong with apple products .,[]
+149,"I have owned at least 4 to 5 laptops and computers , but this is by far the most superior machine I have ever owned .",[]
+124,"Apple is unmatched in product quality , aesthetics , craftmanship , and customer service .","[('product quality', 'positive'), ('aesthetics', 'positive'), ('craftmanship', 'positive'), ('customer service', 'positive')]"
+634,"I switched to this because I wanted something different , even though I miss windows .","[('windows', 'positive')]"
+697,Just beware no DVD slot so when I went to install software I had on CD I could n't .,"[('DVD slot', 'neutral'), ('install software', 'negative')]"
+185,SO of course this one came through with the awesomeness !,[]
+541,No complaints for an Apple product .,[]
+50,"Lastly , Windows 8 is annoying .","[('Windows 8', 'negative')]"
+487,"Here are the things that made me confident with my purchase , Build Quality , Seriously , you ca n't beat a unibody construction .","[('Build Quality', 'positive'), ('unibody construction', 'positive')]"
+789,I called Toshiba where I gave them the serial number and they informed me that they were having issues with the mother boards .,"[('mother boards', 'neutral')]"
+485,Yet my mac continues to function properly .,"[('function', 'positive')]"
+321,The memory was gone and it was not able to be used .,"[('memory', 'negative')]"
+353,I wish I would have taken the plunge years ago .,[]
+739,I like the brightness and adjustments .,"[('brightness', 'positive'), ('adjustments', 'positive')]"
+142,", Great product , great price , great delivery , and great service .","[('price', 'positive'), ('delivery', 'positive'), ('service', 'positive')]"
+370,It 's ok but does n't have a disk drive which I did n't know until after I bought it .,"[('disk drive', 'neutral')]"
+141,And I can attach my projector to it .,[]
+399,It 's silent and has a very small footprint on my desk .,"[('footprint', 'positive')]"
+263,Easy to customize setting and even create your own bookmarks .,"[('customize setting', 'positive'), ('create your own bookmarks', 'positive')]"
+320,I 've installed to it additional SSD and 16Gb RAM .,"[('SSD', 'neutral'), ('16Gb RAM', 'neutral')]"
+19,"Super light , super sexy and everything just works .","[('works', 'positive')]"
+172,"Awesome form factor , great battery life , wonderful UX .","[('form factor', 'positive'), ('battery life', 'positive'), ('UX', 'positive')]"
+653,"The track pad is a bit squirrely at times sometimes too sensitive , and sometimes a bit unresponsive , but it 's usable .",[]
+312,And the fact that it comes with an i5 processor definitely speeds things up,"[('i5 processor', 'positive')]"
+390,Web surfuring is smooth and seamless .,"[('Web surfuring', 'positive')]"
+745,It is more than enough computer to keep up with the needs of a high school student .,[]
+12,Sure it 's not light and slim but the features make up for it 100 % .,"[('features', 'positive')]"
+407,OSX Mountain Lion soon to upgrade to Mavericks .,"[('OSX Mountain Lion', 'neutral'), ('Mavericks', 'neutral')]"
+408,Apple hit a home run here .,[]
+305,"The only solution is to turn the brightness down , etc .","[('brightness', 'neutral')]"
+354,I love the form factor .,"[('form factor', 'positive')]"
+25,The battery life is excellent 6-7 hours without charging .,"[('battery life', 'positive')]"
+597,I hope this review helps .,[]
+169,"Most of them were either too big , too noisy and too slow after 2 years .",[]
+38,"This laptop has only 2 USB ports , and they are both on the same side .","[('USB ports', 'negative')]"
+175,i love the keyboard and the screen .,"[('keyboard', 'positive'), ('screen', 'positive')]"
+245,I did add a SSD drive and memory,"[('SSD drive', 'neutral'), ('memory', 'neutral')]"
+298,"The only task that this computer would not be good enough for would be gaming , otherwise the integrated Intel 4000 graphics work well for other tasks .","[('gaming', 'negative')]"
+668,I 'm Not exagerating when I say this computer is perfecti It is ! ! .,[]
+416,"My last laptop was a 17 ASUS gaming machine , which performed admirably , but having since built my own desktop and really settling into the college life , I found myself wanting something smaller and less cumbersome , not to mention that the ASUS had been slowly developing problems ever since I bought it about 4 years ago .","[('performed', 'positive')]"
+548,I am very satisfied with the mini .,[]
+272,Easy to set up and go !,"[('set up', 'positive')]"
+611,I tried several monitors and several HDMI cables and this was the case each time .,"[('monitors', 'neutral'), ('HDMI cables', 'neutral')]"
+154,Seems to me that 's the best way to get Apple 's attention .,[]
+126,It makes a great gift .,[]
+449,I thought the transition would be difficult at best and would take some time to fully familiarize myself with the new Mac ecosystem .,"[('Mac ecosystem', 'neutral')]"
+571,"It was important that it was powerful enough to do all of the tasks he needed on the internet , word processing , graphic design and gaming .","[('internet', 'positive'), ('word processing', 'positive'), ('graphic design', 'positive'), ('gaming', 'positive')]"
+341,"However , the machine itself left a bit to be desired .",[]
+430,Apple did a great job .,[]
+287,"My wife was so excited to open the box , but quickly came to see that it did not function as it should .","[('function', 'negative')]"
+113,"LOVE IT I 've always been an apple fan boy , but never had the money to buy a mac , only ipads and iphones , and this is my first mac , blew me away completely .",[]
+499,Came with iPhoto and garage band already loaded .,"[('iPhoto', 'neutral'), ('garage band', 'neutral')]"
+173,"Needless to say , the leap from that to this has been amazing and aside from the financial reasons I am astounded that I had n't made the switch sooner .",[]
+359,"Unfortunately , it runs XP and Microsoft is dropping support next April .","[('XP', 'neutral'), ('support', 'negative')]"
+482,I love the quick start up .,"[('start up', 'positive')]"
+57,Only 2 usb ports kind oflimited .,"[('usb ports', 'negative')]"
+552,It is lightweight and the perfect size to carry to class .,"[('size', 'positive')]"
+222,It 's so nice that the battery last so long and that this machine has the snow lion !,"[('battery', 'positive'), ('snow lion', 'positive')]"
+280,It 's so quick and responsive that it makes working on a computer so much more pleasurable !,"[('working', 'positive')]"
+17,Small and still VERY powerful .,[]
+127,It is a great size and amazing windows 8 included !,"[('size', 'positive'), ('windows 8', 'positive')]"
+322,Its pretty much fire it up and go .,[]
+255,Its a pretty decent computer .,[]
+538,My one complaint is that there was no internal CD drive .,"[('internal CD drive', 'negative')]"
+470,I bought it for college and so far it 's amazing !,[]
+598,"However , you have to adjust yourself to what it will do , not what you want it to do .",[]
+468,Searched it on amazon and on bestbuy .,[]
+768,But I did n't want to spend another thousand on a laptop since my work already provides me with a PC .,[]
+190,Deal of the year .,[]
+115,Well designed and fast .,"[('designed', 'positive')]"
+516,It was wonderful deal for the wonderful product .,[]
+709,I got this at an amazing price from Amazon and it arrived just in time .,"[('price', 'positive')]"
+535,"So noise is reduced at least 50 % and the heat is much better , now it does n't feel hot but warm .",[]
+94,I opted for the SquareTrade 3-Year Computer Accidental Protection Warranty $ 1500-2000 which also support accidents like drops and spills that are NOT covered by AppleCare .,"[('SquareTrade 3-Year Computer Accidental Protection Warranty', 'positive'), ('AppleCare', 'negative')]"
+180,I 've already upgraded o Mavericks and I am impressed with everything about this computer .,"[('Mavericks', 'positive')]"
+301,"I use it mostly for content creation Audio , video , photo editing and its reliable .","[('content creation Audio', 'positive'), ('video', 'positive'), ('photo editing', 'positive')]"
+616,"I fell in love with my machine , and it was pampered .",[]
+581,I finally made the leap after my Gateway crapped out on me .,[]
+590,wow the new macbook pro hanged as i tried to type this review .,[]

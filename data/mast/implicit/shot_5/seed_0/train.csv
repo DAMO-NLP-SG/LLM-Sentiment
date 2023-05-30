@@ -1,0 +1,16 @@
+domain,id,text,aspect,label_text
+rest,2402,"The only concern i have is with the slighly all-business waitstaff who order and throw the food down, rushing you out.",waitstaff,negative
+rest,1099,Once for dinner and once for brunch.,dinner,neutral
+rest,2646,"Only wine and beer are served, but the house varities are actually quite good.",beer,neutral
+laptop,2485,I have only had PCs with Windows before so this takes a little getting use to.,Windows,neutral
+laptop,1660,"Theres also iDVD, a program dedicated to putting all your favorite media together- photos, recordings, video projects into one program so that you can create the perfect memoir for your parents, family, siblings, and any other person important in your life that there may be.",program,positive
+rest,3511,"A gentleman, maybe the manager, came to our table, and without so much as a smile or greeting asked for our order.",manager,negative
+laptop,113,"In fact, somehow (and I never opened it up) some specks of dust or something got inside the screen and are now there permanently, behind the front of the screen, in the way of the display.",screen,negative
+rest,1951,"Even though the restaurant was packed, we were seated promptly and even asked for a table upstairs with no problems.",table,positive
+laptop,599,"It absolutely is more expensive than most PC laptops, but the ease of use, security, and minimal problems that have arisen make it well worth the pricetag.",security,positive
+rest,415,I've waited over one hour for food.,food,neutral
+rest,1116,The zucchini and mashed potatoes are a blend of garlic and butter which simply melts in your mouth.,mashed potatoes,positive
+rest,715,We ordered some beef and noodle soup dishes from the Thai section of the menu but nothing we got was Thai.,menu,negative
+laptop,1641,I am forever changed and will no longer buy a Windows based machine for personal use.,Windows,negative
+rest,1200,"If the omakase is to showcase technique and variety, serving almost 40% of items BBQ-ed and a spicy tuna roll wrapped with not-so-fresh nori seems to be a rather limp performance.",serving,neutral
+rest,250,"I understand the area and folks you need not come here for the romantic, alluring ambiance or the five star service featuring a sommlier and a complicated maze of captain and back waiters - you come for the authentic foods, the tastes, the experiance.",tastes,positive

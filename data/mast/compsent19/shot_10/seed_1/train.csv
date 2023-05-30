@@ -1,0 +1,21 @@
+text,tuple,label_text
+I love the Swift because it's safer and easier than Objective-C.,"['Swift', 'Objective-C', 'better']",better
+Cooler server side scripting languages of the day like Ruby and Python are a lot less like C. Therefore learning PHP and JavaScript is a great place to start.,"['Python', 'JavaScript', 'worse']",worse
+"In my opinion, Windows 7 is far superior to Windows 8, for standard laptops and desktop PCs.","['Windows 7', 'Windows 8', 'better']",better
+"Then again, without the Modern UI, Windows 8 doesn't offer many advantages, aside from faster performance, over Windows 7.","['Windows 8', 'Windows 7', 'worse']",worse
+you can write serious programs in Lisp faster than in Python... ;-),"['Lisp', 'Python', 'better']",better
+"If you factor in population densities, then virginia being slower than california and Oregon may likely be due to more saturation because it's covering the entire Eastern US.","['virginia', 'california', 'worse']",worse
+"It is faster and easier then Python, far easier than C++ or C#/Java, etc... Is commonly used as a embedded scripting language, and has a few wonderful libraries to get started with.","['Python', 'Java', 'better']",better
+"This does NOT have to be Bluetooth tethering, by the way, I'm perfectly content to do this via USB if it makes things easier.","['Bluetooth', 'USB', 'worse']",worse
+"I know my 2000 Chrysler charges my phone faster than I can drain it, yet a friend's 20010 Toyota Matrix can't output enough power to charge the phone while using navigation.","['Chrysler', 'Toyota', 'better']",better
+"While Chrysler says the Sebring offers the same or better EPA volume as its competition, the car feels a bit more closely coupled and taller than the Ford Fusion or Toyota Camry.","['Chrysler', 'Toyota', 'better']",better
+"Nissan/Infiniti have been the Houdini of the motor industry, not very long ago it did look as though they might go under because of their horrendous debts but with Renault on board and some truly exciting new products the future looks a great deal better.","['Nissan', 'Renault', 'worse']",worse
+I know I like Mello Yello (Coca-Cola product) better than Mountain Dew (Pepsi-Cola product) and have ever since I 1st tried Mello Yello and I'll only drink a Dew if I run out of Mello Yello here in Houston.,"['Coca-Cola', 'Pepsi', 'better']",better
+"Unfortunately, the Bluetooth mouse goes through batteries much faster than ""regular"" USB wireless mice do.","['Bluetooth', 'USB', 'worse']",worse
+plastic frames are far harder to work with than wood.,"['plastic', 'wood', 'worse']",worse
+Google better at FOSS than Apple?,"['Google', 'Apple', 'better']",better
+"Coming from the PHP ""language"", we have far worse problems than the explicit self required in Python.","['PHP', 'Python', 'worse']",worse
+Performance: Performance wise Windows 8 seems to be faster and more efficient than Windows 7. ( via ),"['Windows 8', 'Windows 7', 'better']",better
+"Handling The Lexus LS 460 has a significantly smaller turning radius than the Audi A6, allowing much better maneuverability in and out of tight spots.","['Lexus', 'Audi', 'worse']",worse
+"Don't learn Perl because even though it's a mature, fast and popular language, it's harder to learn than PHP.","['Perl', 'PHP', 'worse']",worse
+"Also a bit of a bust is baseball, though, it's better than tennis.","['baseball', 'tennis', 'better']",better

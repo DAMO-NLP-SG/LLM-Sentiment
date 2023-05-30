@@ -1,0 +1,41 @@
+text,label_text
+"Stick to dimsum , not super overpriced noodles .","[('dimsum', 'positive'), ('noodles', 'neutral')]"
+"The only weird thing was if we got a bottle , the waitress would have simply multiplied the glass price X4 , which makes no sense whatsoever .","[('bottle', 'neutral'), ('waitress', 'negative'), ('price', 'negative')]"
+They offer the same menu but have creative drinks that are loaded with alcohol and cheeky names - but they do cost you .,"[('menu', 'neutral'), ('drinks', 'positive')]"
+Service was also very good .,"[('Service', 'positive')]"
+They charge $ 600 for rice .,"[('rice', 'negative')]"
+Sushi was n't anything spectacular for the price .,"[('Sushi', 'neutral'), ('price', 'negative')]"
+However it is the ONLY Taiwanese restaurant in town .,[]
+"Other guests enjoyed pizza , santa fe chopped salad and fish and chips .","[('pizza', 'positive'), ('santa fe chopped salad', 'positive'), ('fish and chips', 'positive')]"
+"Again , if you are in this neighborhood , by all means , come here .",[]
+The staff ignored my friends and I the entire time we were there .,"[('staff', 'negative')]"
+The food was good .,"[('food', 'positive')]"
+All my co-workers were amazed at how small the dish was .,"[('dish', 'negative')]"
+Went there and had a combination of different seafood dishes and appetizers .,"[('seafood dishes', 'neutral'), ('appetizers', 'neutral')]"
+Suan has challenged this loyalty .,[]
+I stumbled upon this great pizzeria as I explored my new neighborhood .,[]
+A bit breezy up there on the mezzanine from the wind coming from the tracks .,"[('mezzanine', 'negative')]"
+I ca n't believe people complain about no cheese sticks ?,"[('cheese sticks', 'neutral')]"
+"The service is excellent , the decor is great , and the food is delicious and comes in large portions .","[('service', 'positive'), ('decor', 'positive'), ('food', 'positive'), ('portions', 'positive')]"
+"And their prices are very high , they actually think that they can get away with charging such prices for such terrible food and service !","[('prices', 'negative'), ('prices', 'negative'), ('food', 'negative'), ('service', 'negative')]"
+First of all Dal Bukhara Rocks .,[]
+i would just ask for no oil next time .,"[('oil', 'negative')]"
+"On the other hand , if you are not fooled easily , you will find hundreds of restaurants that will give you service and ambiance that is on par with Alain Ducasse , and food that will outshine in presentaion , taste , choice , quality and quantity .","[('service', 'neutral'), ('ambiance', 'neutral'), ('food', 'negative'), ('presentaion', 'negative'), ('taste', 'negative'), ('choice', 'negative'), ('quality', 'negative'), ('quantity', 'negative')]"
+"I would n't even have complained at all if the food at least tasted good but the quality of food was crappy , too .","[('food', 'negative'), ('food', 'negative')]"
+"The food is definitely good , but I left a bit disappointed .","[('food', 'positive')]"
+"they did n't disappoint , service from the second i arrived at the door was extremely pleasant and attentive with almost one server per table .","[('service', 'positive'), ('server', 'positive'), ('table', 'neutral')]"
+"Guacamole+shrimp appetizer was really great , we both had the filet , very good , did n't much like the frites that came with , but the filet was so good , neither of us cared .","[('Guacamole+shrimp appetizer', 'positive'), ('filet', 'positive'), ('frites', 'negative'), ('filet', 'positive')]"
+but I would n't wan na live there .,[]
+Too cold to enjoy .,[]
+My friend 's food was also the complete opposite of what it 's supposed to taste like aND look like .,"[('food', 'negative')]"
+I thanked my friend who recommended me this restaurant and will certainly recommend it to others .,[]
+"While we thoroughly enjoyed the food , it was annoying to scream across the table for conversation .","[('food', 'positive')]"
+"Oh right , I should probably say something nice .",[]
+"also make sure you pay attention to the music being piped in , quite a weird selection .","[('music', 'neutral')]"
+"The steak is good , the fish is good and the sushi was surprisingly great .","[('steak', 'positive'), ('fish', 'positive'), ('sushi', 'positive')]"
+"During our meal , the management came over and checked on us and even bought us a round of drinks .","[('meal', 'neutral'), ('management', 'positive'), ('round of drinks', 'neutral')]"
+"Having not been home in the last 2 years may skew this reviewer a bit , but the food was tasty and spicy sans the oil that comes floating along at similar venues .","[('food', 'positive'), ('oil', 'neutral')]"
+"The man that was hosting promised to save a table for our party of 7 , then sat a party of 2 at the very table he was saving mean while there were boths open all around .","[('man', 'negative'), ('table', 'neutral'), ('table', 'neutral')]"
+"Stay away from the two specialty rolls on the menu , though too much avocado and rice will fill you up right quick .","[('rolls', 'negative'), ('menu', 'neutral'), ('avocado', 'negative'), ('rice', 'negative')]"
+They have authentic Indian at amazin prices .,"[('Indian', 'positive'), ('prices', 'positive')]"
+We 'd go back again,[]

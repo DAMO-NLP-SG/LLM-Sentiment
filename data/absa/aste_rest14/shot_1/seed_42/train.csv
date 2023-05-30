@@ -1,0 +1,4 @@
+text,label_text
+Service was slow had to wait to order and get food although not crowded .,"[('Service', 'slow', 'negative')]"
+"The atmosphere is n't the greatest , but I suppose that 's how they keep the prices down .","[('atmosphere', ""is n't the greatest"", 'neutral'), ('prices', 'down', 'positive')]"
+The fries are yummy .,"[('fries', 'yummy', 'positive')]"

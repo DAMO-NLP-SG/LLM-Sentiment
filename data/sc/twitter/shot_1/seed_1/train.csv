@@ -1,0 +1,4 @@
+sid,text,label,label_text
+twitter-train-2728,"@user I sat in the old Yankees' bleachers pre-2003 in Red Sox shit, and I would never make anyone carry me and slow ped. traffic.""",0,negative
+twitter-train-28566,Live as if you were going to die tomorrow. Learn as if you were to live forever. - Gandhi #wisewords,2,positive
+twitter-train-16681,"@user The incubation period for HIV may last up to 6 months, and may be mistaken for other diseases before the person becomes aware.""",1,neutral

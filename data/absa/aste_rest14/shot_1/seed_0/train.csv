@@ -1,0 +1,4 @@
+text,label_text
+fine dining restaurant quality .,"[('quality', 'fine', 'positive')]"
+"The highlight of the night was the mayonaisse for my side of fries I received from one of the food runners , which is not good considering the bill was nearly $ 100 .","[('mayonaisse', 'highlight', 'negative'), ('food runners', 'not good', 'neutral')]"
+The food is alright - some stuff is good - some is not ( like the steak dish which tends to be dry ) .,"[('steak dish', 'dry', 'negative')]"

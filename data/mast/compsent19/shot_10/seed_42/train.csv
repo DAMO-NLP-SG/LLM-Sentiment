@@ -1,0 +1,21 @@
+text,tuple,label_text
+"Now let's be clear; in this author's humble opinion, Apple is still way better than IBM.","['Apple', 'IBM', 'better']",better
+"Final note: Without the transfers last year, missouri likely is worse than South carolina and Miss.","['missouri', 'carolina', 'worse']",worse
+"It does seem Amazon is using a lower quality display in new Kindle's, so you want the best looking screen maybe better to go with Kindle Keyboard, Nook STR or new Sony-T1.","['Amazon', 'Sony', 'worse']",worse
+"Finally, PostgreSQL is clearly better for some workloads out-of-the-box than MySQL is, especially for more complex queries.","['PostgreSQL', 'MySQL', 'better']",better
+This means that earnings at LinkedIn and amazon are likely to grow vastly faster than earnings at facebook over the next few years.,"['amazon', 'facebook', 'better']",better
+"california has better weather than oregon.""","['california', 'oregon', 'better']",better
+"So, yes, PHP is getting better and better while catching up with Java.","['PHP', 'Java', 'worse']",worse
+Natural stone pool coping has a superior advantage over pre-cast concrete and tile.,"['stone', 'concrete', 'better']",better
+"lacrosse was harder than Soccer by far, and still didn't come close to football.","['lacrosse', 'football', 'worse']",worse
+"I have written similar mechanisms in Perl, but prefer the PHP solution as it is easier.","['Perl', 'PHP', 'worse']",worse
+"(Riley) thinks baseball is harder than golf,"" Shields said.","['baseball', 'golf', 'worse']",worse
+"Graphics, shmaphics ;) The Nindendo wii has uglier graphics but way more creative games than the ps3.","['wii', 'ps3', 'better']",better
+It is also true that Python programs are easier to install than Haskell,"['Python', 'Haskell', 'better']",better
+Perl is surely harder to learn than Python.,"['Perl', 'Python', 'worse']",worse
+The studio folks at espn for CL was 1000% better than fox.,"['espn', 'fox', 'better']",better
+"But with the 3.73 rear axle as tested, the Chevrolet Silverado finished in third place pulling the trailer from 0 to 60-mph in 22.6 seconds, 6.5-seconds behind the Toyota Tundra and 1.1-seconds slower than the Dodge Ram.","['Chevrolet', 'Toyota', 'worse']",worse
+"It still doesn't have macros the way Lisp does and it doesn't have sexprs (yes, I really do like the parenthesis), but it is a better follow-on to C than C++ and still hits the system-programming domain that Java missed so bady.","['Lisp', 'Java', 'better']",better
+the football team is decent but getting better! the basketball teams are awesome!the,"['football', 'basketball', 'worse']",worse
+"My last PC had Windows 7 and I would use it from time to time until I realized Windows 8 was better, faster and had less problems.","['Windows 7', 'Windows 8', 'worse']",worse
+"My original guess was that division might be slower because, for a lot of cases (such as 42/5) the results are non-Integer, so it has to use (mildly slower) Floating-point hardware to find the result.","['Integer', 'Floating-point', 'better']",better

@@ -1,0 +1,4 @@
+domain,id,text,aspect,label_text
+rest,1970,The steak was excellent and one of the best I have had (I tasted the butter intitally but in no way did it overwhelm the flavor of the meat).,butter,negative
+rest,1474,"Yes, they use fancy ingredients, but even fancy ingredients don't make for good pizza unless someone knows how to get the crust right.",crust,neutral
+rest,517,"Three page wine menu, one page entree and horedevous.",wine menu,positive

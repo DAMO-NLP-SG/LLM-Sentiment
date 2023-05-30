@@ -1,0 +1,21 @@
+text,label_text
+The place is small and cramped but the food is fantastic .,"[('place', 'negative'), ('food', 'positive')]"
+The one on the east side is much better than the one on the west side .,[]
+Nicky the Nose at the bar is a treat .,"[('bar', 'neutral')]"
+"Both are delicious , the cooks are friendly and are willing to take a moment and speak to you and shake your hand .","[('cooks', 'positive')]"
+"I went here with a friend on a whim , we went someplace else first and could n't get a table .","[('table', 'negative')]"
+All the NYU students love this place so it makes for a fun young atmosphere .,"[('atmosphere', 'positive')]"
+"Despite the fact that the space is large , they 've overcrowded the floor with tables .","[('space', 'positive'), ('tables', 'negative')]"
+For sure i will keep coming back because i feel really this restaurant deserves .,[]
+i would recommend reservations on weekends though .,"[('reservations', 'neutral')]"
+"Do n't expect to sit down inside though , there are only a few tables and they are always full .","[('tables', 'negative')]"
+sometimes i get good food and ok service .,"[('food', 'positive'), ('service', 'neutral')]"
+"Well , this place is so Ghetto its not even funny .","[('place', 'negative')]"
+Not worth it .,[]
+I came here with my boyfriend for our anniversary because it was highly recommended to him by a friend .,[]
+"the bread at the beginning is super tasty and makes you want more , the pizza is delicious and comes in personal sizes , however be warned that the Peter 's Favourite pizza with prosciutto and baby arugula is actually a margarite pizza with cold prosciutto and baby arugula on top , like a salad .","[('bread', 'positive'), ('pizza', 'positive'), ('pizza', 'positive'), ('pizza', 'positive'), ('salad', 'neutral')]"
+"They 're are better Taiwanese restaurants and they are located in Flushing , Queens .",[]
+I recommend the meatballs and caprese salad and the beans on toast were a wonderful start to the meal !,"[('meatballs', 'positive'), ('caprese salad', 'positive'), ('beans on toast', 'positive'), ('meal', 'neutral')]"
+Best dish is nori-wrapped tuna .,"[('dish', 'positive'), ('nori-wrapped tuna', 'positive')]"
+"The chicken pot pie is excpetiona , the cheeseburger huge and delictable , and the service professional wan warm .","[('The chicken pot pie', 'positive'), ('cheeseburger', 'positive'), ('service', 'positive')]"
+"When we notified him that he did n't mention the specials , he did n't apologize but let us know that we made a very good decision regardless .","[('specials', 'neutral')]"

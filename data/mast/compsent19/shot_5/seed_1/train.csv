@@ -1,0 +1,11 @@
+text,tuple,label_text
+you can write serious programs in Lisp faster than in Python... ;-),"['Lisp', 'Python', 'better']",better
+"If you factor in population densities, then virginia being slower than california and Oregon may likely be due to more saturation because it's covering the entire Eastern US.","['virginia', 'california', 'worse']",worse
+"Don't learn Perl because even though it's a mature, fast and popular language, it's harder to learn than PHP.","['Perl', 'PHP', 'worse']",worse
+"It is faster and easier then Python, far easier than C++ or C#/Java, etc... Is commonly used as a embedded scripting language, and has a few wonderful libraries to get started with.","['Python', 'Java', 'better']",better
+I know I like Mello Yello (Coca-Cola product) better than Mountain Dew (Pepsi-Cola product) and have ever since I 1st tried Mello Yello and I'll only drink a Dew if I run out of Mello Yello here in Houston.,"['Coca-Cola', 'Pepsi', 'better']",better
+I love the Swift because it's safer and easier than Objective-C.,"['Swift', 'Objective-C', 'better']",better
+"While Chrysler says the Sebring offers the same or better EPA volume as its competition, the car feels a bit more closely coupled and taller than the Ford Fusion or Toyota Camry.","['Chrysler', 'Toyota', 'better']",better
+"Handling The Lexus LS 460 has a significantly smaller turning radius than the Audi A6, allowing much better maneuverability in and out of tight spots.","['Lexus', 'Audi', 'worse']",worse
+"Nissan/Infiniti have been the Houdini of the motor industry, not very long ago it did look as though they might go under because of their horrendous debts but with Renault on board and some truly exciting new products the future looks a great deal better.","['Nissan', 'Renault', 'worse']",worse
+"Then again, without the Modern UI, Windows 8 doesn't offer many advantages, aside from faster performance, over Windows 7.","['Windows 8', 'Windows 7', 'worse']",worse

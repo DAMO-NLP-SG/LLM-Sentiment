@@ -1,0 +1,4 @@
+text,label_text
+Battery is not upgradable to a longer life battery .,"[('Battery', 'not upgradable', 'negative')]"
+"I'ts nice to have the higher-end laptops , but this fits my budget and the features I need .","[('features', 'nice', 'positive')]"
+"I do not experience a lot of heat coming out of it , however I would highly suggest purchasing a stand however , due to the nature of the design of the macbook as it is one very large heat sink .","[('stand', 'suggest', 'neutral'), ('heat sink', 'large', 'negative')]"

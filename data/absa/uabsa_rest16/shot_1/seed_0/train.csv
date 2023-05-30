@@ -1,0 +1,5 @@
+text,label_text
+Try sushimi cucumber roll .,"[('sushimi cucumber roll', 'positive')]"
+Will give it another chance before I write it off .,[]
+"Overall , decent food at a good price , with friendly people .","[('food', 'neutral'), ('people', 'positive')]"
+We wo n't go to this place again for a good meal .,"[('meal', 'negative')]"

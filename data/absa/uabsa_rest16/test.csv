@@ -1,0 +1,501 @@
+original_index,text,label_text
+641,"The atmosphere is aspiring , and the decor is festive and amazing .","[('atmosphere', 'positive'), ('decor', 'positive')]"
+302,Well I guess it 's hard to be seated when one is invisible to the staff .,"[('staff', 'negative')]"
+369,Leave room for dessert .,"[('dessert', 'positive')]"
+493,I love Dungeness crabs and at Ray 's you can get them served in about 6 different ways !,"[('Dungeness crabs', 'positive')]"
+579,Fancy pieces of exotic fish on a $ 100 dollar plate and NOT ONE was eatable .,"[('exotic fish', 'negative'), ('plate', 'negative')]"
+54,Some of the food is clearly oriented toward foodies like me so if your not a foodie nothing wrong with that head over to McDonalds or some Ruby Tuesday and have at it !,[]
+645,Mediocre Service,"[('Service', 'neutral')]"
+257,"great meal , the fish on the omikase platter was absolutely decadent - there was none of the stringiness that sometimes accompanies fair sushi - this fish was perfect ! ! ! !","[('meal', 'positive'), ('fish on the omikase platter', 'positive')]"
+663,Imagine my happy surprise upon finding that the views are only the third-best thing about Ray's !,"[('views', 'positive'), (""Ray's"", 'positive')]"
+478,"After one member of our party had been bumped repeatedly by a waitress , a polite request that he not be bumped sent the waitress into an abusive rant .","[('waitress', 'negative'), ('waitress', 'negative')]"
+55,"If your looking for real quality not the BS that is seen on yelp ratings , which allegedly recently got in trouble for adjusting ratings , you need to get in here !",[]
+639,"Mercedes restaurant is so tasty , the service is undeniably awesome !","[('service', 'positive')]"
+481,"She promised to speak to the waitress who had flown off in a rage , but we could hardly take her promise seriously , seeing as she had n't bothered to get the waitresses name .",[]
+77,You are bound to have a very charming time .,[]
+235,Old Reliable,[]
+277,"On weekends , you might have to wait for couple hours .",[]
+304,"Finally , my wife stood face to face in front of one of the staff and she asked , Are you waiting for a table ?","[('staff', 'negative')]"
+630,"The food was very good , filet mignon was probably the best I 've ever try .","[('food', 'positive'), ('filet mignon', 'positive')]"
+90,I do n't know if I 'll be back .,[]
+457,The upside of the restaurant ?,[]
+192,Holy Hummus !,"[('Hummus', 'positive')]"
+220,"The food is not what it once was potions have seriously seen downsizing prices have gone up , and the service is the worst I have experienced anywhere including mainland Europe .","[('food', 'negative'), ('potions', 'negative'), ('service', 'negative')]"
+390,We left without ever getting service .,"[('service', 'negative')]"
+145,"The best thing is , the prices are also quite reasonable .",[]
+164,"Even the chickpeas , which I normally find too dry , were good .","[('chickpeas', 'positive')]"
+118,I found a new home and just moved with a long lease .,[]
+671,Two rascally kids were seated near us for the first part of our dinnerthey were replaced by a delightful preteen who pretended to gag every time seafood was mentioned at her table .,[]
+519,"The 9 oz steak came next and it tasted great , at least initially .","[('9 oz steak', 'positive')]"
+274,"Good Sushi , High Price","[('Sushi', 'positive')]"
+589,"The service was excellent , the coffee was good even by starbucks standards and the food was outstanding .","[('service', 'positive'), ('coffee', 'positive'), ('food', 'positive')]"
+628,"We were seated right away , the table was private and nice .","[('table', 'positive')]"
+81,great service,"[('service', 'positive')]"
+331,"If I want to stand in line on Sunday for an hour to get average brunch food , then I would put Murphy 's at the top of the list .","[('brunch food', 'neutral')]"
+559,The pizza's are light and scrumptious .,"[(""pizza's"", 'positive')]"
+109,Where can I begin .,[]
+284,Save room for scrumptious desserts .,"[('desserts', 'positive')]"
+63,I have eaten here three times and have found the quality and variety of the fish to be excellent .,"[('fish', 'positive')]"
+101,"Endless fun , awesome music , great staff ! ! !","[('music', 'positive'), ('staff', 'positive')]"
+672,"Given that Ray 's is a seafood restaurantwell , you get the idea .",[]
+76,"But the space is small and lovely , and the service is helpful .","[('space', 'positive'), ('service', 'positive')]"
+584,The service is really attentive and charming .,"[('service', 'positive')]"
+10,Snotty Attitude,[]
+507,"Seriously , you ca n't go wrong , if it is unpretentious local fun you seek .",[]
+260,absolutely fabulous ! ! !,[]
+344,I went here on a recommendation and will surely return time and time again .,[]
+259,and the waiter suggested a perfect sake ! !,"[('waiter', 'positive'), ('sake', 'positive')]"
+31,I will never return again .,[]
+479,A brief conversation with the manager at the end of the meal was the greatest disappointment -- to say we had been blown off would be an understatement .,"[('manager', 'negative')]"
+490,Ray 's is THE place to go for high quality seafood dinners .,"[('seafood dinners', 'positive')]"
+354,I 'm not kidding .,[]
+265,"Melt in your mouth nigiri and sashmi , and very tasty rolls too .","[('nigiri', 'positive'), ('sashmi', 'positive'), ('rolls', 'positive')]"
+526,The desert was the perfect ending to an almost perfect dinner .,"[('desert', 'positive'), ('dinner', 'positive')]"
+444,We put out name down and although there were open tables we were told that it 'd be a 30 minute wait .,[]
+360,"The only problem would be the wait , but we usually just have a drink in the front while wait .","[('wait', 'neutral'), ('wait', 'neutral')]"
+299,"Should have gone to Trader Joe 's and had frozen pizza ,",[]
+480,"The manager continually interrupted with Is there anything else I can do for you ? , a strange comment because she had hardly listened , let alone responded to our expression of disappointment at our experience .","[('manager', 'negative')]"
+2,Not the biggest portions but adequate .,"[('portions', 'neutral')]"
+211,"We did have the same waiter the second time , so maybe the service is spotty and our luck is good .","[('waiter', 'positive')]"
+132,My g/f and I both agreed the food was very mediocre especially considering the price .,"[('food', 'negative')]"
+576,"I have been to this place , folks and it is BAD .","[('place', 'negative')]"
+72,They pay such detail to everything from miso soup to complex rolls .,"[('miso soup', 'positive'), ('rolls', 'positive')]"
+181,You can order to go if you have to get back to the office too !,[]
+133,"We are locals , and get the feeling the only way this place survives with such average food is because most customers are probably one-time customer tourists .","[('place', 'negative'), ('food', 'negative')]"
+399,"Love their pizza , especially the mushroom pizza .","[('pizza', 'positive'), ('pizza', 'positive')]"
+329,WAY OVER-RATED ! ! ! !,[]
+396,"Great seasonal fish and seafood , with a classy waterfront setting .","[('seasonal fish', 'positive'), ('seafood', 'positive'), ('waterfront setting', 'positive')]"
+78,Not recommanded ! ! !,[]
+234,It 's a great place to enjoy food and meet friends .,"[('place', 'positive'), ('food', 'positive')]"
+647,The presentation of Snooze is excellent and it is one of those places that you feel more sophisticated just for being there ; but peel back the layers and you have an overpriced IHOP with a high brow menu .,"[('Snooze', 'positive'), ('menu', 'negative')]"
+120,Go Beyond the California Rolls .,[]
+199,There have been several occasions when we 've just not gotten some side dishes we 've ordered .,[]
+291,"Can get busy on Fridays for a table but once seated , the service is so efficient you can be in and out of there quickly .","[('service', 'positive')]"
+60,"Rice is too dry , tuna was n't so fresh either .","[('Rice', 'negative'), ('tuna', 'negative')]"
+352,"I know many people have their favorite types of pizza and pizza places , but Mioposto 's pizza lacks quality and good taste .","[('pizza', 'negative'), ('pizza', 'negative'), ('pizza', 'negative')]"
+30,"I complained to the manager , but he was not even apologetic .","[('manager', 'negative')]"
+69,We were then charged for their most expensive sake $ 20+ per serving when we in fact drank a sake of less than half that price .,[]
+155,I appreciate their delivery too .,"[('delivery', 'positive')]"
+209,It was like dining at a completely different restaurant .,[]
+44,Went there last night with a friend .,[]
+70,But Im sure this was just an honest mistake .,[]
+482,"In short , Schooner or Later could n't have cared less about our being at their establishment .",[]
+248,Still I would recommend this place .,"[('place', 'positive')]"
+542,"At best , the food was good and definately overpriced .","[('food', 'neutral')]"
+422,we ordered the honey walnut prawns which we always order at every chinese restaurant to determine the quality of food .,[]
+595,I recently had the pleasure of dining as this delightful restaurant on 2nd street and wow what a great evening we had .,"[('restaurant', 'positive')]"
+531,"good sake , good food , i honestly do n't know much about japanese food at all .","[('sake', 'positive'), ('food', 'positive'), ('food', 'positive')]"
+182,Lebanese Food ! Yum !,"[('Lebanese Food', 'positive')]"
+286,"I guarantee you wo n't be disappointed , there 's also valet parking .",[]
+65,"Portions contain less fish than one would expect , particularly since prices are in line with the best sushi places in NYC Masa excluded , of course .",[]
+525,They came in their own nifty take out box and with some homemade frosting ; very light and not-too-sweet .,[]
+49,"We 're going back , D .",[]
+158,"I had yummy lamb korma , saag paneer , samosas , naan , etc .","[('lamb korma', 'positive'), ('saag paneer', 'positive'), ('samosas', 'positive'), ('naan', 'positive')]"
+306,The prior reviews said Kid friendly give me a break with two young children that is light years .,[]
+39,"The wine list is incredible and extensive and diverse , the food is all incredible and the staff was all very nice , good at their jobs and cultured .","[('wine list', 'positive'), ('food', 'positive'), ('staff', 'positive')]"
+148,"It 's located in a strip mall near the Beverly Center , not the greatest location , but the food keeps me coming back for more .","[('location', 'neutral'), ('food', 'positive')]"
+488,good sake selection .,"[('sake selection', 'positive')]"
+6,I ca n't say enough about this place .,"[('place', 'positive')]"
+231,This place is charming and relaxing .,"[('place', 'positive')]"
+643,"Drinks are suberb , and I feel like I am in a Third World country when I walk in the door .","[('Drinks', 'positive')]"
+213,Seattle 's BEST Winelist,"[('Winelist', 'positive')]"
+634,"I have a but here , there was a bathroom attendant in the restroom which was odd .","[('restroom', 'negative')]"
+135,Drinks were good .,"[('Drinks', 'positive')]"
+336,"Better than nobu , tomoe , taka , yama , sugiyama , and the rest .",[]
+163,"The naan was some of the best I 've had and I really enjoyed the bhartha , not too tomatoey .","[('naan', 'positive'), ('bhartha', 'positive')]"
+310,This establishment is consistent with my feelings of the rest of Chow Foods group .,[]
+86,If you 're in the area you should n't be disappointed .,[]
+176,great lunch spot,"[('lunch spot', 'positive')]"
+434,every month if possible .,[]
+597,The decor was beautiful and unique .,"[('decor', 'positive')]"
+629,"The service was exceptional , sometime there was a feeling that we were served by the army of friendly waiters .","[('service', 'positive'), ('waiters', 'positive')]"
+588,We waited for an hour to be seated .,[]
+165,And they packaged everything nicely so it did n't spill .,[]
+41,AMAZING .,[]
+486,"the fish was fresh , though it was cut very thin .","[('fish', 'positive')]"
+108,I FOUND A NEW HOME ON SECOND AVENUE ! ! ! ! ! ! ! ! ! ! ! !,[]
+409,They have been featured on the food network and they deserve it .,[]
+56,Very Disappointing,[]
+208,"We ordered a selection of the small plates , and the shoe string onions , goat cheese pizza , grilled asparagus and fried brie with fruit were all very good .","[('shoe string onions', 'positive'), ('goat cheese pizza', 'positive'), ('grilled asparagus', 'positive'), ('fried brie with fruit', 'positive')]"
+557,The pizza's are thin crust and the menu offers very creative combinations and toppings .,"[(""pizza's"", 'positive'), ('menu', 'positive')]"
+393,Best Crab Cakes in Town,"[('Crab Cakes', 'positive')]"
+136,Unless you are just stopping in for a few drinks I would n't recommend going here .,"[('drinks', 'positive')]"
+227,Open & Cool Place with the Best Pizza and Coffee,"[('Place', 'positive'), ('Pizza', 'positive'), ('Coffee', 'positive')]"
+578,"I have been here , spent tons of money on a chef special dinner and it was a major dissappointment .","[('chef special dinner', 'negative')]"
+131,"We ordered the marinated grapes , buffalo style chicken wings , and the turkey sandwich .",[]
+24,"Nice ambience , but highly overrated place .","[('ambience', 'positive'), ('place', 'negative')]"
+349,Try the Chef's Choice for sushi as the smoked yellowtail was incredible and the rolls were also tasty .,"[(""Chef's Choice for sushi"", 'positive'), ('smoked yellowtail', 'positive'), ('rolls', 'positive')]"
+464,A sushi-fiend friend recently visited and our group of three just had to come for dinner .,[]
+210,"We have since returned and also had a great experience , sampling more small plates and a variety of the beer cold and good .","[('beer', 'positive')]"
+605,The waiters are very experienced and helpful with pairing your drink choice to your food tastes or vice versa .,"[('waiters', 'positive')]"
+110,I ca n't ! ! !,[]
+82,Pretty cheap for sit down Mexican AND downtown .,[]
+51,"In a age of incremental cost cutting in restaurants , its nice to see a place that bucks that trend , and just plain delivers high quality food and good service , period .","[('food', 'positive'), ('service', 'positive')]"
+204,I swore never to return for a warm beer and mediocre meal .,"[('beer', 'negative'), ('meal', 'negative')]"
+544,Not sure if I would go back .,[]
+428,the brocollis were so fresh and tasty .,"[('brocollis', 'positive')]"
+247,"Service was kind of slow , our waitress took forever to give us our check even though it was n't that busy .","[('Service', 'negative'), ('waitress', 'negative')]"
+218,NOT THE PLACE IT ONCE WAS,"[('PLACE', 'negative')]"
+18,The onion rings are great !,"[('onion rings', 'positive')]"
+567,The staff was really friendly .,"[('staff', 'positive')]"
+408,This place is famous for their breakfast .,"[('breakfast', 'positive')]"
+657,"In the end our check came to $ 27 for 4 small pancakes , a breakfast burrito , an orange juice and an iced tea I had water .","[('pancakes', 'negative'), ('breakfast burrito', 'negative'), ('orange juice', 'negative'), ('iced tea', 'negative')]"
+61,Nothing really came across as outstanding .,[]
+296,The atmosphere was just okay .,"[('atmosphere', 'neutral')]"
+451,Um so now what are appetizers for ? ? ?,[]
+29,"Our waiter was non-existent and after our food finally arrived over an hour after we ordered , we were not given any water or utensils .","[('waiter', 'negative')]"
+473,"Schooner or Later 's charming location along the marina in Long Beach and average food does not , unfortunately , compensate for its very poor customer service .","[('location along the marina in Long Beach', 'positive'), ('food', 'neutral'), ('customer service', 'negative')]"
+664,"To start things off , our lovely server Brooke was quickly on hand to take my drink order .","[('Brooke', 'positive')]"
+506,"The music is great , no night better or worse , the bar tenders are generous with the pouring , and the lighthearted atmosphere will lifts you spirits .","[('music', 'positive'), ('bar tenders', 'positive'), ('atmosphere', 'positive')]"
+650,I should have just asked for the check when I saw that ; but their menu was so unique that I continued .,"[('menu', 'positive')]"
+656,To their credit they removed the dish from the check ; but no manager stopped by to ask what the problem was .,"[('manager', 'negative')]"
+550,"They are n't the most talkative , but everytime I 've been there they have been very busy , which probably accounts for the lack of conversation .",[]
+651,"The pancakes were certainly inventive but $ 850 for 3 , 6 pancakes one of them was more like 5 in the pancake flight sample of 3 different pancakes is well over-priced .","[('pancakes', 'positive'), ('pancakes', 'positive'), ('pancakes', 'positive')]"
+326,"For the finicky sushi eater and those who have sampled the best NYC has to offer , the fish is the freshest and the service is superb .","[('fish', 'positive'), ('service', 'positive')]"
+483,"Next time we will go somewhere else , or try other restaurants close by like Mimi 's Cafe and Claim Jumper .",[]
+212,Sunday afternoons there is a band playing and it is lots of fun .,"[('band', 'positive')]"
+311,We used to frequent most of their restaurants but over the years each one has really been disapointing .,[]
+439,I 'm astonished that this restaurant is categorized as $ $ $ rather than $ $ $ $ .,"[('restaurant', 'negative')]"
+606,"The sushi is as fresh as it comes ? you 'd think ocean was in their backyard , no joke !","[('sushi', 'positive')]"
+487,great service .,"[('service', 'positive')]"
+215,"The sommelier is fantastic , down-to-earth , & extremely knowlegable .","[('sommelier', 'positive')]"
+635,"The bathroom itself is very small with two toilets and only one sink , the girl was staying totally on the way hanging out paper towels from the dispenser .","[('bathroom', 'negative')]"
+633,The most pleasant surprise was the check that did not exceed my expectations as it always happens in most of the places .,[]
+592,Will definitely be back .,[]
+445,"So here we are , my wife , 3 year old daughter and I trying to pass the time by hanging out in the front of the building where the murals and artifacts are .",[]
+328,The nicest waiters in town .,"[('waiters', 'positive')]"
+449,None that I can think of .,[]
+613,Sit in the Balcony,"[('Balcony', 'positive')]"
+104,Every time 0-sixtynine is called the bartender buys everyone drinks !,"[('bartender', 'positive')]"
+114,The owners are great fun and the beer selection is worth staying for .,"[('owners', 'positive'), ('beer selection', 'positive')]"
+607,"If you 're interested in good tasting without the fish taste or smell , large portions and creative sushi dishes this is your place .","[('portions', 'positive'), ('sushi dishes', 'positive')]"
+174,the atmosphere is great .,"[('atmosphere', 'positive')]"
+249,"BTW , I really like Long Beach .",[]
+250,It was one of the few places in SoCal where you would actually walk around and not have to take a car .,[]
+7,It has great sushi and even better service .,"[('sushi', 'positive'), ('service', 'positive')]"
+89,"Took forever to get our order taken , water refills were too much to ask for and the only time she was fast was when we asked for our bill when we could get her attention .",[]
+514,I got the shellfish and shrimp appetizer and it was alright .,"[('shellfish and shrimp appetizer', 'neutral')]"
+362,Seafood Plus,"[('Seafood', 'positive')]"
+501,This is the case at this gem .,[]
+355,The only positive thing about Mioposto is the nice location .,"[('Mioposto', 'negative'), ('location', 'positive')]"
+346,Well worth it,[]
+529,"Overall , I would go back and eat at the restaurant again .","[('restaurant', 'positive')]"
+140,The ambiance was a peaceful and relaxing break amongst all the kids running around in Downtown Disney .,"[('ambiance', 'positive')]"
+556,You wo n't be disappointed by their menu .,"[('menu', 'positive')]"
+43,Mmm good ! .,[]
+42,I can not wait to go back again this coming weekend !,[]
+73,The sashimi was the freshest and most tender I have ever tasted .,"[('sashimi', 'positive')]"
+167,"I do n't understand how I was a stranger to this place for so long the fajita salad , the colorado , the fajitas , EVERYTHING is delicious .","[('place', 'positive'), ('fajita salad', 'positive'), ('colorado', 'positive'), ('fajitas', 'positive')]"
+436,Chintzy portions,"[('portions', 'negative')]"
+590,It was worth the wait .,[]
+66,"Furthermore , while the fish is unquestionably fresh , rolls tend to be inexplicably bland .","[('fish', 'positive'), ('rolls', 'negative')]"
+11,We were treated very rudely here one time for breakfast .,[]
+334,"Your a sushi fan , you love expertly cut fish , great sake , a killer SOHO location , and of course , Salmon , Tuna , Fluke , Yellow Tail , Cod , Mackeral , JellyASPECT1 , fish , fish , fish , fish , fish , fish , Blue Fin Tuna , fish , fish , sake , sake , sake , sake , sake , and a varity of sake .","[('sushi', 'positive'), ('fish', 'positive'), ('sake', 'positive'), ('SOHO location', 'positive'), ('Salmon', 'positive'), ('Tuna', 'positive'), ('Fluke', 'positive'), ('Yellow Tail', 'positive'), ('Cod', 'positive'), ('Mackeral', 'positive'), ('fish', 'positive'), ('fish', 'positive'), ('fish', 'positive'), ('fish', 'positive'), ('fish', 'positive'), ('fish', 'positive'), ('Tuna', 'positive'), ('fish', 'positive'), ('fish', 'positive'), ('sake', 'positive'), ('sake', 'positive'), ('sake', 'positive'), ('sake', 'positive'), ('sake', 'positive'), ('sake', 'positive')]"
+551,I also really enjoy the simplicity of the decor and intimate feeling of a small restaurant .,"[('decor', 'positive'), ('feeling', 'positive')]"
+244,I had the kafta plate and I enjoyed it .,"[('kafta plate', 'positive')]"
+256,"The best place for a leisure Sunday breakfast amidst yachts , then take a stroll through the nearby Farmer 's Market .","[('place', 'positive')]"
+340,It 's unpretentious and underground .,[]
+541,"Most importantly , we were so excited about the food after seeing the very creative menu .","[('menu', 'positive')]"
+278,"However , they do take your cellphone numbers so that you can go hang out somewhere else till they call you up on your cellphone .",[]
+398,"Great Pizza , Poor Service","[('Pizza', 'positive'), ('Service', 'negative')]"
+177,Great financial district mexican spot .,"[('mexican spot', 'positive')]"
+431,for desert we had the mango ginger creme brulee oh la la yummy ! ! ! .,"[('mango ginger creme brulee', 'positive')]"
+420,not too fine thought that you feel uncomfortable and have to dress up .,[]
+83,my service was stellar !,"[('service', 'positive')]"
+429,"i would normally not finish the brocolli when i order these kinds of food but for the first time , every piece was as eventful as the first one the scallops and prawns was so fresh and nicely cooked .","[('brocolli', 'positive'), ('scallops', 'positive'), ('prawns', 'positive')]"
+404,Management should really take notice and train their waitstaff and teach them some proper manners .,"[('Management', 'negative'), ('waitstaff', 'negative')]"
+674,"While I could have done without the youth who shared the evening with us , our wonderful server and food made the experience a very positive one .","[('server', 'positive'), ('food', 'positive')]"
+79,The food was not great & the waiters were rude .,"[('food', 'negative'), ('waiters', 'negative')]"
+23,"The prices are outrageous , especially since the food was actually less satisfying than most neighborhood Chinese establishments .",[]
+15,This is a great place to get a delicious meal .,"[('meal', 'positive')]"
+363,This was great dining experience .,[]
+289,"Love the enchiladas and chicken soup , and be sure to check out their specials .","[('enchiladas', 'positive'), ('chicken soup', 'positive'), ('specials', 'positive')]"
+264,This is right up there with places in Tokyo as far as the freshness is concerned .,[]
+667,The scallops are apparently cooked in a black olive butter which really makes them unique not to mention tasty .,"[('scallops', 'positive')]"
+300,My family went on a midweek evening to have dinner .,[]
+275,One of the best Sushi place in town .,"[('Sushi place', 'positive')]"
+137,You are likely to be disappointed .,[]
+294,The sushi was excellent and the wait staff was quick .,"[('sushi', 'positive'), ('wait staff', 'positive')]"
+33,I highly recommend Mioposto .,"[('Mioposto', 'positive')]"
+662,"Ray 's is something of a Seattle institution , but given its gorgeous Sound views , I had suspected that the accolades were more due to the scenery than to the food and service .","[('Sound views', 'positive')]"
+381,Save yourself the waste of time & DO NOT visit .,[]
+9,I 've been to this restaurant over a dozen times with no complaints to date .,"[('restaurant', 'positive')]"
+22,"The lemon chicken tasted like sticky sweet donuts and the honey walnut prawns , the few they actually give youwere not good .","[('lemon chicken', 'negative'), ('honey walnut prawns', 'negative')]"
+290,The cooks have been at the restaurant for years and cook family recipes .,"[('cooks', 'positive')]"
+221,What may be interesting to most is the worst sevice/attitude comes from the owners of this establishment .,"[('owners', 'negative')]"
+516,"Before the steak came , the server told us that the steak did not come with any sides and suggested I pick something from the menu .",[]
+661,I am exceedingly pleased to report that my dinner at Ray's Boathouse last Friday completely exceeded my expectations .,"[(""Ray's Boathouse"", 'positive')]"
+318,i love this place !,"[('place', 'positive')]"
+84,the bus boy even spotted that my table was shaking a stabilized it for me .,"[('bus boy', 'positive')]"
+319,i have been eating at this place for over 8 years now and i have never had one bad meal .,"[('meal', 'positive')]"
+411,I love breakfast here .,"[('breakfast', 'positive')]"
+583,The best dish are the honwy walnut prawns just outstanding .,"[('honwy walnut prawns', 'positive')]"
+320,i highly recommend this place to all that want to try indain food for the first time .,"[('indain food', 'positive')]"
+203,We waited over 30 minutes for our drinks and over 1 1/2 hours for our food .,[]
+196,"The side of potatoes is to die for , as is the labne (yogurt dip) .","[('side of potatoes', 'positive'), ('labne (yogurt dip)', 'positive')]"
+321,The lunch menu is an awesome deal !,"[('lunch menu', 'positive')]"
+93,"BUt once done , it 's not too much dough , not too much cheese , not too much sauce .",[]
+281,"That 's a huge compliment , especially in the fickled restaurant business , enough already ! .",[]
+341,"It 's fresh , welcoming , delicious , and relaxing .",[]
+357,"I was frankly shocked when I read the bad reviews , this place is fantastic ; it has not let us down in any way , and we 've eaten here more than 10 times .","[('place', 'positive')]"
+618,"The appetizer was interesting , but the Creme Brulee was very savory and delicious .","[('appetizer', 'positive'), ('Creme Brulee', 'positive')]"
+28,Everyone that sat in the back outside agreed that it was the worst service we had ever received .,"[('service', 'negative')]"
+184,The food is simply unforgettable !,"[('food', 'positive')]"
+545,My favortie pizza joint in Seattle,"[('pizza joint', 'positive')]"
+292,I went there with a friend from out of town and we were both very impressed ! .,[]
+178,"Always busy , but they are good at seating you promptly and have quick service .","[('service', 'positive')]"
+335,"There is only one place on the east coast that has it all , plus a lot more .","[('place', 'positive')]"
+153,I can highly recommend their various saag and paneer and korma .,"[('saag', 'positive'), ('paneer', 'positive'), ('korma', 'positive')]"
+75,The only drawback is that this place is really expensive and the portions are on the small side .,"[('place', 'negative'), ('portions', 'negative')]"
+388,After telling my friend about the situation he said lets try again but we will visit the lower bar .,[]
+367,Caesar salad was superb .,"[('Caesar salad', 'positive')]"
+92,"the only problem is you really have to warm up the pizza before it 's edible , even when you order ahead .","[('pizza', 'negative')]"
+382,I made my 1st trip to the restaurant after finding their webpage online .,[]
+68,"On a recent trip , our waiter was extremely dismissive , while no less than three staff members waited hand-and-foot on a pair of Japanese girls seated nearby .","[('waiter', 'negative'), ('staff members', 'negative')]"
+620,"If it 's nice outside , request for a table in the balcony .","[('balcony', 'positive')]"
+361,Never had one single problem there .,[]
+538,Waited 35 minutes for a table for 8 which was ok for such a big crowd .,[]
+188,Her sister had the baklava for dessert !,[]
+236,After 12 years in Seattle Ray's rates as the place we always go back to .,"[(""Ray's"", 'positive')]"
+88,"the food was great , the margaritas too but the waitress was too busy being nice to her other larger party than to take better care of my friend and me .","[('food', 'positive'), ('margaritas', 'positive'), ('waitress', 'negative')]"
+571,"Go with some friends , wait the half hour or so with a cup of joe , and enjoy more than your average breakfast .","[('breakfast', 'positive')]"
+117,Kudos to these guys .,[]
+563,The pizza's are not huge and the crust is thin keep that in mind when you 're ordering .,"[(""pizza's"", 'neutral'), ('crust', 'neutral')]"
+608,big thick pepperoni,"[('pepperoni', 'positive')]"
+238,Enjoyed the food,"[('food', 'positive')]"
+0,Yum !,[]
+668,My friend enjoyed the grilled Alaskan King Salmon with delectable creamed Washington russet potatoes and crisp green beans .,"[('grilled Alaskan King Salmon', 'positive'), ('creamed Washington russet potatoes', 'positive'), ('green beans', 'positive')]"
+271,Perfect on a cold day .,[]
+462,I 'd hate for tourists to go to Park Chalet and think that this is how all San Francisco restaurants are like .,[]
+539,The waiter was a bit unfriendly and the feel of the restaurant was crowded .,"[('waiter', 'negative'), ('feel', 'negative')]"
+116,"Not alot of smoking places left in New York , but I have found my favorite smoking balconey in the city .","[('balconey', 'positive')]"
+228,Mioposto has a very creative & delicious pizza menu .,"[('pizza menu', 'positive')]"
+631,"The portions are big though , so do not order too much .","[('portions', 'neutral')]"
+314,"Great food , better Margaritas !","[('food', 'positive'), ('Margaritas', 'positive')]"
+581,Delicious,[]
+144,"I 've been to over a dozen Indian places in LA , and this is still my favorite .",[]
+377,"When the bill came , he only took the discount off the food and not the drinks .",[]
+356,Love it every time,[]
+611,I probably would n't go back though cuz I do n't know if it 's worth it .,[]
+646,"This review is for the Southglen location which is not listed in Citysearch , I wish this review would make a difference enough for it to be addressed by management but Snooze has people climbing over each other for a chance to eat at this overpriced restaurant with mediocre food and service , so this review as well as the other negative ones for their Larimer location will go unaddressed .",[]
+268,"How to describe the best sushi in NYC , hmmmm , delicious , amazing , fantastic , suculent , perfect , nah , all of the above .","[('sushi', 'positive')]"
+448,Logic behind that ?,[]
+46,The food was great !,"[('food', 'positive')]"
+261,Unbeatable sushi !,"[('sushi', 'positive')]"
+195,The open sesame combo plate is a bargain for the heap of food given .,"[('open sesame combo plate', 'positive')]"
+675,"Oh yeahthe view was good , too .","[('view', 'positive')]"
+612,Maybe I 'll go back once more many years from now when I 've forgotten I went there already .,[]
+107,Definitely has one of the best jukebox's i 've seen in a long long time .,"[(""jukebox's"", 'positive')]"
+437,"The sushi here is perfectly good , but for $ 5 a piece , either the slices of fish should be larger , or there should be no pretense that this is a moderately priced restaurant even for NYC .","[('sushi', 'positive'), ('restaurant', 'negative')]"
+500,"If there is a line very day of the week for the entire time a place is open , you know it is great .","[('place', 'positive')]"
+659,"Snooze provided an inventive pancake offering , but Le Peep would have provided better service and quality .",[]
+100,A perfect place to take out of town guests any time of the year .,"[('place', 'positive')]"
+333,10 !,[]
+604,"Everything , and I mean everything on the menu is delectable .","[('menu', 'positive')]"
+528,But the servers were extremely attentive and very friendly .,"[('servers', 'positive')]"
+179,"Everything I 've had here is good , taco salads , burritos , enchiladas i love this place .","[('taco salads', 'positive'), ('burritos', 'positive'), ('enchiladas', 'positive'), ('place', 'positive')]"
+332,The regular menu here is slightly above average that is not worth the snotty attitude that you receive .,"[('regular menu', 'neutral')]"
+149,hidden little jem,[]
+124,My only negative comment is that I wish the pieces were a little bigger .,"[('pieces', 'negative')]"
+537,We dined at the Colorado location today .,[]
+585,4 Locations,[]
+185,I had the beef kabobs with a side of cucumber yogurt .,[]
+558,You never feel icky and stuffed after you eat there .,[]
+534,had many dishes but the BEST was the lobster 3 ways .,"[('lobster 3 ways', 'positive')]"
+666,"For my entr & eacute ; e , I completely enjoyed the seared Alaskan sea scallops complemented by chard , artichoke hearts , fennel , and pecorino toscano .","[('seared Alaskan sea scallops', 'positive')]"
+327,"Not only can the selection be innovative , but there 's a nice balance of traditional sushi as well .","[('selection', 'positive'), ('sushi', 'positive')]"
+624,"Should check-up on us more frequently , do n't you think ?",[]
+142,I recommend it for a night when you want to splurge ! it was a bit expensive,[]
+141,"It was romantic , and even nice even with my sister , reminded me of Italy , and had artwork and music that kept up the feeling of being in a Mediterrean villa .","[('artwork', 'positive'), ('music', 'positive')]"
+375,We had a very hard time getting the waitress attention and finally had to get up and go inside to speak to a manager .,"[('waitress', 'negative')]"
+19,They are not greasy or anything .,[]
+172,"Cry me a river , stop complaining you obviously you have no taste in food .",[]
+549,"I 've always found the wait staff and , if you sit at the bar , the cooks very friendly .","[('wait staff', 'positive'), ('cooks', 'positive')]"
+312,I 'm a born and bred Southend resident and was excited to hear of this restaurant opening .,[]
+12,The owner is belligerent to guests that have a complaint .,"[('owner', 'negative')]"
+305,Once seated it took about 30 minutes to finally get the meal .,[]
+25,I will not go back .,[]
+494,We shared the family platter and I especially enjoyed the black cod in sake kasu .,"[('black cod in sake kasu', 'positive')]"
+169,"I just found out that you can have the place to yourself on nights and weekends for a private party , ca n't wait to celebrate my next birthday there .","[('place', 'positive')]"
+453,Its a good thing my daughter had some snacks in her lunch bag .,[]
+517,"I picked the asparagus , which turned out to be incredible and perfectly prepared .","[('asparagus', 'positive')]"
+245,"It was so much though that I could barely finish but I did , since it was delicious .",[]
+298,I 'd go back there in a heartbeat .,[]
+412,Their crab eggs benedict is addicting .,"[('crab eggs benedict', 'positive')]"
+272,$ 6 with tip .,[]
+154,"You routinely see Indian families and friends dining there , which is always a good sign .",[]
+126,"The crowd is mixed yuppies , young and old .","[('crowd', 'neutral')]"
+446,30 minutes went by and sure enough the pager buzzer went off .,[]
+287,Addicting !,[]
+113,"You need to watch your game , they will have it on for you .",[]
+350,Poor customer service pizza .,"[('customer service pizza', 'negative')]"
+173,i am never disappointed with there food .,"[('food', 'positive')]"
+338,Believe it baby !,[]
+57,I took my parents here for their anniversary-very very disappointed ! ! !,[]
+465,6pm on a Sat before a Broadway play and we were quickly seated and served .,[]
+222,"This establishment really made a marked decline after and this is recurring story the airing of FOOD TELEVISIONS DINERS , DRIVE-INS , AND DIVES hosted by Guy Fieri , in which Schooner or Later was subject of .","[('establishment', 'negative')]"
+280,"I ca n't believe Murphy's has been around for over 25 years , amazing .","[(""Murphy's"", 'positive')]"
+17,The staff is pretty friendly .,"[('staff', 'positive')]"
+615,Food was good and appetizing .,"[('Food', 'positive')]"
+322,"plenty of food , trust me .","[('food', 'positive')]"
+255,"Eggs , pancakes , potatoes , fresh fruit and yogurt - everything they serve is delicious .","[('Eggs', 'positive'), ('pancakes', 'positive'), ('potatoes', 'positive'), ('fresh fruit', 'positive'), ('yogurt', 'positive')]"
+395,"If you can , come to this place by boat and make it a whole evening .","[('place', 'positive')]"
+648,"To start off , approximately 8-10 oz of orange juice will cost you $ 3 .","[('orange juice', 'negative')]"
+190,The staff are friendly and the decor was ethic and colorful .,"[('staff', 'positive'), ('decor', 'positive')]"
+495,I ended the meal with the unusual dessert of a port and chocolate tasting ! .,"[('dessert of a port and chocolate tasting', 'positive')]"
+596,"The food is fantastic , authentic , delicious and very , very affordable .","[('food', 'positive')]"
+353,"To be honest , I 've had better frozen pizza .","[('pizza', 'negative')]"
+94,Best Sushi in town .,"[('Sushi', 'positive')]"
+180,Also have great margaritas !,"[('margaritas', 'positive')]"
+301,The restaurant was 80 % full and there was a sign posted wait to be seated .,[]
+405,"Many people talk about the great pizza and poor service , so it ca n't just be the rantings of a few dissatisfied customers .","[('pizza', 'positive'), ('service', 'negative')]"
+485,you are with a hot date and he/she has an urge for sushi this might be the place .,"[('sushi', 'positive')]"
+430,not chewy at all .,[]
+621,It 's a great place to people watch .,"[('place', 'positive')]"
+456,"Food wise , its ok but a bit pricey for what you get considering the restaurant is n't a fancy place .","[('Food', 'neutral'), ('restaurant', 'negative')]"
+5,No Comparison,[]
+45,She had heard from a co-worker about this place .,[]
+380,AVOID THE PLACE,"[('PLACE', 'negative')]"
+644,Insultingly Overpriced,[]
+499,The service is fantastic at this fun place .,"[('service', 'positive'), ('place', 'positive')]"
+16,We never had to wait more than 5 minutes .,[]
+48,I had the Kafta plate and it was perfect .,"[('Kafta plate', 'positive')]"
+654,"On my meal I had to send back my eggs for a simple request of breaking the yokes before cooking , and would have had to send them back again if I had n't rejected the meal all together .","[('meal', 'negative'), ('eggs', 'negative'), ('meal', 'negative')]"
+619,Indoor ambience was modern .,"[('Indoor ambience', 'positive')]"
+3,Green Tea creme brulee is a must !,"[('Green Tea creme brulee', 'positive')]"
+425,yummy .,[]
+582,The atmosphere is great for any special occasion you might want to celebrate .,"[('atmosphere', 'positive')]"
+316,"it gets really busy , so get there on the early side so you can grab a seat , if you do have to wait , its not bad because the service is quick !","[('service', 'positive')]"
+623,Our drinks kept coming but our server came by a couple times .,"[('server', 'negative')]"
+283,It 's the perfect spot for a romantic date for 2 or a secret rendezvous !,"[('spot', 'positive')]"
+610,"The pizza itself is not exactly the best I 've had EVER , but still pretty good .","[('pizza', 'positive')]"
+285,The restaurant offers an extensive wine list and an ambiance you wo n't forget !,"[('wine list', 'positive'), ('ambiance', 'positive')]"
+616,"Portions was just enough for me , but may not be for a big eater .","[('Portions', 'neutral')]"
+225,I hope one day Scooner or Later returns to what it once was .,"[('Scooner or Later', 'negative')]"
+26,Worst Service I Ever Had,"[('Service', 'positive')]"
+533,Server made several sake suggestions which were very good .,"[('Server', 'positive'), ('sake', 'positive')]"
+263,"I love sushi , and I have eaten it all over the world .",[]
+50,Finally a meal that you will remember for a long time !,"[('meal', 'positive')]"
+364,"If you 're going to see Danny Gans or just staying at the Mirage , do n't miss this one .",[]
+229,"The coffe is very good , too .","[('coffe', 'positive')]"
+37,"I will never forget the amazing meal , service , and ambiance I experience at this restaurant .","[('meal', 'positive'), ('service', 'positive'), ('ambiance', 'positive')]"
+157,I really enjoyed my meal here .,"[('meal', 'positive')]"
+237,"Great food , spectacular location , and friendly service keep us coming back year after year .","[('food', 'positive'), ('location', 'positive'), ('service', 'positive')]"
+649,"They serve it in a tall , skinny hour-glass shaped glass to disguise the fact that you a getting a small juice at the price of a half gallon in a supermarket .","[('juice', 'negative')]"
+374,"Even then , the order was not correct and we were still waiting for a couple items .",[]
+370,COMPLETELY OVER RATED !,[]
+175,and all you other people that have a problem get some help,[]
+572,Good eats .,"[('eats', 'positive')]"
+622,Although the service could be improved considering the money you put in .,"[('service', 'negative')]"
+194,"Dinners have always been excellent , in terms of food quality .","[('Dinners', 'positive')]"
+574,Why is it that almost every good review is by anonymous ?,[]
+421,the staff was very nice and courteous and obviously chinese .,"[('staff', 'positive')]"
+424,"so about the prawns , they were fresh and had a slight crispiness about the batter soooo good the walnuts were cut in smaller pieces and very crunchy and tasty .","[('prawns', 'positive'), ('batter', 'positive'), ('walnuts', 'positive')]"
+653,The flavors were good but I have had far better pancakes at a German pancake specialty restaurant that were a little cheaper but significan'tly larger .,[]
+580,DONOT GO !,[]
+67,The service ranges from mediocre to offensive .,"[('service', 'negative')]"
+417,there was a guy playing the piano and singing at the bar area which was separate from the dinning area .,[]
+168,I love the warm & cosy environment .,"[('environment', 'positive')]"
+530,Just remember to dress a little urban-chic so you don ? t look too far out of place .,[]
+162,I will give them another chance and make sure to tell them to kick it up several notches .,[]
+309,It was decent but nothing exceptional .,[]
+193,"The food is here is incredible , though the quality is inconsistent during lunch .","[('food', 'positive'), ('lunch', 'negative')]"
+452,Oh I forgot to mention that they do n't have bread service .,[]
+365,"The appetizer of oysters, lobster, crab (small size) made a perfect entre for my wife .","[('appetizer of oysters, lobster, crab (small size)', 'positive')]"
+383,When I got there I sat up stairs where the atmosphere was cozy & the service was horrible !,"[('atmosphere', 'positive'), ('service', 'negative')]"
+609,The pepperoni's cut real thick -- Yum .,"[(""pepperoni's"", 'positive')]"
+470,Green tea creme brulee gets better each time I have it .,"[('Green tea creme brulee', 'positive')]"
+152,I think I have probably tried each item on their menu at least once it is all excellent .,"[('menu', 'positive')]"
+426,best honey walnyt prawns that we have every tasted .,"[('honey walnyt prawns', 'positive')]"
+594,Delicious ! .,[]
+226,"Untill this happens , my advice is to STAY AWAY .",[]
+432,melt in your mouth .,[]
+543,For the amount of food we got the prices should have been lower .,"[('food', 'negative')]"
+103,I went there with some friends one night to play bingo and watch the sox game and it was a blast !,[]
+513,"We were quickly seated and requested the special dinner , which came with , 1 Shellfish and Shrimp appetizer or Caesar Salad , 2 9 oz steak with a single potato chip , and 3 homemade donut holes .",[]
+74,Their apps are all delicious .,"[('apps', 'positive')]"
+115,And the upstairs is a great place to hang out .,"[('upstairs', 'positive')]"
+407,Great Breakfast,"[('Breakfast', 'positive')]"
+652,The pancakes should be larger at least 8 to justify the expense even with the unique offerings .,"[('pancakes', 'negative')]"
+119,Thank you,[]
+518,It was steamed and tossed with garlic .,[]
+151,Never too crowded and always great service .,"[('service', 'positive')]"
+403,"But she is very friendly with certain people , making it even more annoying .",[]
+637,I felt ackward and next time went to the casino bathroom .,[]
+207,"Outside in the area between the restaurant and the park , children were running around while their parents sipped wine .",[]
+447,"We went back to the restaurant and low and behold , we were seated at one of the tables that was available 30 minutes ago ! !",[]
+640,"The chips and salsa are so yummy , and the prices are fabulous .","[('chips and salsa', 'positive')]"
+443,"The restaurant was busy , however there were a few tables open .",[]
+523,My mouth felt very dry afterwards and I had that signature ? MSG ? taste lingering in my throat after I left the restaurant .,[]
+8,The entire staff was extremely accomodating and tended to my every need .,"[('staff', 'positive')]"
+497,Great Breakfast,"[('Breakfast', 'positive')]"
+36,I love this restaurant,"[('restaurant', 'positive')]"
+139,I loved the pumpkin ravioli and the goat cheese gnocchi 5 big ones to a plate instead of 20 or so little gnocchis and my sister loved her filet mignon on top of spinach and mashed potatoes .,"[('pumpkin ravioli', 'positive'), ('goat cheese gnocchi', 'positive'), ('filet mignon on top of spinach and mashed potatoes', 'positive')]"
+253,WHAT ELSE CAN YOU SAY NICE PEOPLE AMAZING FOOD WOW,"[('PEOPLE', 'positive'), ('FOOD', 'positive')]"
+303,We stood there for 10 minutes while employees walked back and forth ignoring us .,"[('employees', 'negative')]"
+638,This place rocks ! !,"[('place', 'positive')]"
+512,"The music playing was very hip , 20-30 something pop music , but the subwoofer to the sound system was located under my seat , which became annoying midway through dinner .","[('music', 'positive'), ('music', 'positive'), ('subwoofer to the sound system', 'negative')]"
+368,Great bottle of wine .,"[('bottle of wine', 'positive')]"
+59,I may not be a sushi guru but I can tell you that the food here is just okay and that there is not much else to it .,"[('food', 'negative')]"
+111,Just go there and see for yourself .,[]
+548,The pizza is delicious and the salads are fantastic .,"[('pizza', 'positive'), ('salads', 'positive')]"
+477,"When we finally were able to flag someone down , it was someone entirely different from the person who had dropped off the food , who was also not the same person who had taken our order .",[]
+467,"As usual the omikase did n't disappoint in freshness , although it scored low on creativity and selection .","[('omikase', 'positive')]"
+262,Two thumbs up !,[]
+568,The atmosphere was great .,"[('atmosphere', 'positive')]"
+297,"Space was limited , but the food made up for it .","[('Space', 'negative'), ('food', 'positive')]"
+414,Does n't get any better than that .,[]
+150,tucked away over by the Beverly Center .,[]
+433,we are for sure coming back to this restaurant .,"[('restaurant', 'positive')]"
+440,"Terrible service , food ok , pricey","[('service', 'negative'), ('food', 'neutral')]"
+266,Be sure to try the oyster roll .,"[('oyster roll', 'positive')]"
+587,the 2 listed and then one in Southglenn mall parking lot which is reviewed here and one in Ft Collins .,[]
+359,"The food is fantastic , and the waiting staff has been perfect every single time we 've been there .","[('food', 'positive'), ('waiting staff', 'positive')]"
+599,Our server was very professional and friendly .,"[('server', 'positive')]"
+38,It was absolutely amazing .,[]
+127,The service was courteous and attentive .,"[('service', 'positive')]"
+423,"First off , the food came fast and all together , i like that i hate the pretentiousness of things coming in one after the other .",[]
+416,we got a groupon for pagoda and decided to try it on a thursday night .,[]
+307,The Caesar salad I ordered had so much lemon I could n't eat it .,"[('Caesar salad', 'negative')]"
+198,The only drawback is the crowded seating and the slow service .,"[('seating', 'negative'), ('service', 'negative')]"
+351,"As with most restaurants in Seattle , Mioposto 's service was bad and the food was overpriced .","[('service', 'negative'), ('food', 'negative')]"
+468,"Their specialty rolls are impressive , though I ca n't remember what we had .","[('specialty rolls', 'positive')]"
+146,The chicken curry and chicken tikka masala are my favorite meat dishes .,"[('chicken curry', 'positive'), ('chicken tikka masala', 'positive')]"
+450,"We put in our order and although we ordered 4 appetizers , the food did n't arrive until 45 minutes laterWITH OUR MAIN COURSE .",[]
+627,"That was the last night in Vegas and was too late and most of the restaurant were closing , so we walked in the check the place .",[]
+503,You Ca n't Go Wrong Here .,[]
+419,the ambiance of the restaurant was nice and good for fine dinning .,"[('ambiance', 'positive')]"
+442,"So for the after beach excursion ' , we thought we would end the day on a high note and make the trip across the street from the beach to Park Chalet .",[]
+601,Delectable,[]
+147,The chana masala (garbanzo beans) are also excellent .,"[('chana masala (garbanzo beans)', 'positive')]"
+532,In the past sake usuallly just tasted kind of like salty water to me .,[]
+348,Good for late night dining last minute planning without reservations .,[]
+463,Always good .,[]
+325,"Best food , phenominal service","[('food', 'positive'), ('service', 'positive')]"
+186,"The presentation of the food was an added bonus , it looked just as great as it tasted !","[('food', 'positive')]"
+123,"I 've had the Jellyfish , Horse Mackerel , Blue Fin Tuna and the Sake Ikura roll among others , and they were all good .","[('Jellyfish', 'positive'), ('Horse Mackerel', 'positive'), ('Blue Fin Tuna', 'positive'), ('Sake Ikura roll', 'positive')]"
+573,Whose writing all the great reviews ?,[]
+96,"Everything you want and more , very fresh .",[]
+143,Best Indian food in LA .,"[('Indian food', 'positive')]"
+239,"First of all , I am not from Long Beach .",[]
+394,"Thats a big statement considering I 've been pulling crab traps and making the cakes myself since I was about seven , but something about these little devils gets better every time .","[('cakes', 'positive')]"
+469,Great selection of sakes .,"[('selection of sakes', 'positive')]"
+521,"It ? s served with either a peppercorn sauce or red wine reduction , though both were indistinguishable in taste .","[('peppercorn sauce', 'neutral'), ('red wine reduction', 'neutral')]"
+97,"Its worth the wait , especially since they 'll give you a call when the table is ready .",[]
+371,"I will have to do more research before checking out new places based on Diners , drive-ins and dives reviews .",[]
+324,The place is the next best thing to my Moms cooking .,[]
+279,A cozy spot for 2,"[('spot', 'positive')]"
+293,"Went on a Monday night , so there was no wait for a table .",[]
+254,Great food with an awesome atmosphere !,"[('food', 'positive'), ('atmosphere', 'positive')]"
+400,Also love their caeser salad .,"[('caeser salad', 'positive')]"
+122,They have a wide variety of fish and they even list which oceans they come from ; Atlantic or Pacific .,"[('fish', 'positive')]"
+183,"I 've been to Open Sesame only once , but I 'm still reeling from the experience ! !","[('Open Sesame', 'positive')]"
+202,My first time to dine at this restaurant was with my son and it was absolutely horrible !,"[('restaurant', 'negative')]"
+438,We easily spent more than $ 40 per person not including alcohol and were still hungry .,[]
+323,Fresh ingrediants and super tasty .,"[('ingrediants', 'positive')]"
+246,Atmosphere was nice .,"[('Atmosphere', 'positive')]"
+415,best chinese food i have tasted in a long time,"[('chinese food', 'positive')]"
+197,"Also , they serve THE best hummus in America , with a drizzle of fragrant olive oil which , I believe is the traditional way !","[('hummus', 'positive')]"
+547,"In fact , many want to return a second time during their visit .",[]
+626,I did n't want to go there because of the reviews and prices I saw on the internet .,[]
+171,first of all henrymillionare you do n't know a thing about middle eastern food so do n't talk .,[]

@@ -1,0 +1,21 @@
+text,label_text
+"Very immature bartender , did n't know how to make specific drinks , service was so slowwwww , the food was not fresh or warm , waitresses were busy flirting with men at the bar and werent very attentive to all the customers .","[('bartender', 'negative'), ('service', 'negative'), ('food', 'negative'), ('waitresses', 'negative')]"
+"It is terrific , as is the value .",[]
+"However , go for the ambience , and consider the food just a companion for a trip across the world !","[('ambience', 'positive'), ('food', 'neutral')]"
+The only thing I moderately enjoyed was their Grilled Chicken special with Edamame Puree .,"[('Grilled Chicken special with Edamame Puree', 'positive')]"
+There is a downside if you 're ordering in - the delivery guys have MAJOR attitude .,"[('delivery guys', 'negative')]"
+The owner and staff are all Japanese as well and that adds to the entire ambiance .,"[('owner', 'positive'), ('staff', 'positive'), ('ambiance', 'positive')]"
+The servers at Flatbush Farm appear to have perfected that ghastly technique of making you feel guilty and ashamed for deigning to attract their attention .,"[('servers', 'negative')]"
+The prices are wonderfully low .,[]
+"Overall , decent food at a good price , with friendly people .","[('food', 'neutral'), ('people', 'positive')]"
+"My girlfriend , being slightly more aggressive , and having been equally disgusted causing her to throw out the remainder of her barely eaten meal , called back only to be informed that I was probably wrong and that it was most likely an oyster , and that we were also blacklisted from their restaurant .","[('meal', 'negative')]"
+"Always a nice crowd , but never loud .","[('crowd', 'positive')]"
+Service is not what one would expect from a joint in this price category .,"[('Service', 'negative')]"
+How do you rate home ?,[]
+The one on the east side is much better than the one on the west side .,[]
+Not a very fancy place but very good Chinese style Indian food .,"[('place', 'neutral'), ('Chinese style Indian food', 'positive')]"
+"Fresh , mind blowing flavors .",[]
+"The lobster knuckles special of the day were ok , but pretty tasteless .","[('lobster knuckles', 'neutral')]"
+My friend got the mushroom pizza which tasted better .,"[('mushroom pizza', 'positive')]"
+"Just straight up cheap , good food .","[('food', 'positive')]"
+"The bibimbap was average , but the stone bowl was n't even close to sizzling .","[('bibimbap', 'neutral'), ('stone bowl', 'negative')]"

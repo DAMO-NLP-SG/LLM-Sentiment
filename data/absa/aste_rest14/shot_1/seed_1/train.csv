@@ -1,0 +1,4 @@
+text,label_text
+The service is ok but could be better .,"[('service', 'ok', 'negative'), ('service', 'could be better', 'negative')]"
+"Not a typical pizza joint , but good for a low key and fairly cheap nice sit down dinner .","[('dinner', 'cheap nice', 'positive')]"
+"It 's the perfect restaurant for NY life style , it got cool design , awesome drinks and food and lot 's of good looking people eating and hanging at the pink bar ...","[('design', 'cool', 'positive'), ('drinks', 'awesome', 'positive'), ('food', 'awesome', 'positive'), ('bar', 'pink', 'neutral')]"

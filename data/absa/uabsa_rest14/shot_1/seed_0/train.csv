@@ -1,0 +1,5 @@
+text,label_text
+"Not sure where the previous reviewer , lonk , dined , but Saul is in a great neighborhood and has great food !","[('neighborhood', 'positive'), ('food', 'positive')]"
+It is expensive but well worth the money .,[]
+"Southern Indian cuisine is still there , too .","[('Southern Indian cuisine', 'neutral')]"
+Prices are higher to dine in and their chicken tikka marsala is quite good .,"[('Prices', 'negative'), ('chicken tikka marsala', 'positive')]"

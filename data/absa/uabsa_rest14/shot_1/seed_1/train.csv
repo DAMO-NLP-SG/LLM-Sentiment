@@ -1,0 +1,5 @@
+text,label_text
+"They 're are better Taiwanese restaurants and they are located in Flushing , Queens .",[]
+"Both are delicious , the cooks are friendly and are willing to take a moment and speak to you and shake your hand .","[('cooks', 'positive')]"
+"Well , this place is so Ghetto its not even funny .","[('place', 'negative')]"
+"When we notified him that he did n't mention the specials , he did n't apologize but let us know that we made a very good decision regardless .","[('specials', 'neutral')]"

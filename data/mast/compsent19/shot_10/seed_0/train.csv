@@ -1,0 +1,21 @@
+text,tuple,label_text
+"First nite enjoyed with grilled porterhouse steak, 2nd nite (it tasted even better) with salad, candied carrots and crusty bread!","['steak', 'bread', 'worse']",worse
+"Java, also bytecode interpreted but static rather than dynamic [9] , is loads faster than Python.","['Java', 'Python', 'better']",better
+"The hardware (Sony) feels cheap and easy to break compared to my 4-year old Dell, which feels solid.","['Sony', 'Dell', 'worse']",worse
+"It would be faster to turn on Windows XP, wait 10 minutes for it to boot, and check email that way."" - TechTarget news director Bridget Botelho's husband, on the non-intuitive nature of Windows 8 on a Samsung Series 7 Slate tablet .","['Windows XP', 'Windows 8', 'better']",better
+"Java isn't too bad of a first language, but Python is a little easier to pick up.","['Java', 'Python', 'worse']",worse
+Much better than JavaScript e -mails/PHP.,"['JavaScript', 'PHP', 'worse']",worse
+"So when it comes to sports car made by BMW with their name and logo on the car, they have better line of sports car than Toyota.","['BMW', 'Toyota', 'better']",better
+"By about a chapter into the PHP book, I was thinking ""holy crap, this language is uglier than Perl"".","['PHP', 'Perl', 'worse']",worse
+The SBCL implementation of Lisp is on par with Java 6 Server and is significantly faster than Ruby or Python.,"['Java', 'Python', 'better']",better
+"The restaurant is doing much better,"" Sal reveals of Papa C's Eastside cafe.","['restaurant', 'cafe', 'better']",better
+"I think you have never tested Apple, they are far better than all other companies walking in the market including Sony.","['Apple', 'Sony', 'better']",better
+"As an aside, who in their right mind would buy an inferior GM or Ford car when a very well engineered European car, like that from Mercedes Benz and BMW can be purchased for a much lower price than now when the euro falls.","['Ford', 'BMW', 'worse']",worse
+"As he explained, ""Writing, reading, and organising e-mails is usually faster on my mobile device than on a laptop.","['mobile', 'laptop', 'better']",better
+Direct3D is now better than OpenGL Says John Carmack,"['Direct3D', 'OpenGL', 'better']",better
+"Don't learn Perl because even though it's a mature, fast and popular language, it's harder to learn than PHP.","['Perl', 'PHP', 'worse']",worse
+"Now this last system used only a 1.8GHz Opteron 144 processor as opposed to the 2.0GHz Opteron 246 of the IBM systems, so the Intel compiler is actually faster at 1093/1162.","['IBM', 'Intel', 'worse']",worse
+milk is better than beer!,"['milk', 'beer', 'better']",better
+"In supply-chain conversations, the Pacific Crest semiconductor team learned that Windows 7 inventory is moving faster than Windows 8.","['Windows 7', 'Windows 8', 'better']",better
+"While dozens of manufacturers will gladly slap an Intel, Microsoft, or NVIDIA advertisement on the palmrest of your brand new laptop, Google knows better than to partake in this annoying practice.","['Intel', 'Google', 'worse']",worse
+gamecube doesnt have better realistic graphics than the ps2? RE:4 anyone?,"['gamecube', 'ps2', 'worse']",worse

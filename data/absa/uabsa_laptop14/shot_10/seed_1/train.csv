@@ -1,0 +1,41 @@
+text,label_text
+Runs Hot I thought we were paying for quality in our decision to buy an Apple product .,"[('quality', 'negative')]"
+for being so small it is amazing that it is as fast as it is .,[]
+It drives me crazy when I want to download a game or something of that nature and I ca n't play it because its not compatable with the software .,"[('software', 'negative')]"
+"Not only are the versions of these programs able to be saved , worked on and opened on both a PC and Mac , the versions of these programs on a Mac are graphically and functionally superior .","[('programs', 'positive'), ('programs', 'positive')]"
+Keyboard good sized and wasy to use .,"[('Keyboard', 'positive'), ('use', 'positive')]"
+"It 's graphics are n't bad at all , for the lower end of the MacBook Pro spectrum , easily capable of running StarCraft II and other games with comparable graphics .","[('graphics', 'positive'), ('graphics', 'positive')]"
+"It has a 10 hour battery life when you 're doing web browsing and word editing , making it perfect for the classroom or office , and in terms of gaming and movie playing it 'll have a battery life of just over 5 hours .","[('battery life', 'positive'), ('web browsing', 'neutral'), ('word editing', 'neutral'), ('gaming', 'neutral'), ('movie playing', 'neutral'), ('battery life', 'positive')]"
+I went right out and purchased another laptop .,[]
+I will definitely be getting a new laptop if it has any more issues after the warranty expires and researching carefully when I do so I do n't run accross a situation like this again !,"[('warranty', 'neutral')]"
+I charge it at night and skip taking the cord with me because of the good battery life .,"[('cord', 'neutral'), ('battery life', 'positive')]"
+It came alot faster than I thought it would have which was really exciting .,[]
+"There is a small red circle next to it with a x in the middle , and when I click on it it says , Consider replacing your battery and it does not hold full charge .","[('battery', 'neutral'), ('charge', 'negative')]"
+I do not know for sure .,[]
+I should have been more observant .,[]
+I did not like my acer .,[]
+The battery life is great .,"[('battery life', 'positive')]"
+The first full charge of this battery got me only about 2 full hours .,"[('full charge', 'negative'), ('battery', 'negative')]"
+I guess he was the technical person .,"[('technical person', 'neutral')]"
+The processor is very quick and effective as I load webpages and applications .,"[('processor', 'positive'), ('load webpages', 'neutral'), ('applications', 'neutral')]"
+Still trying to learn how to use it .,[]
+"I love the feel of the key board , as well as the trackpad .","[('key board', 'positive'), ('trackpad', 'positive')]"
+the programs are esay to use and are quick to process this computer works like a charm .,"[('programs', 'positive'), ('use', 'positive')]"
+I bought it to use in college and it is perfect .,[]
+very convenient when you travel and the battery life is excellent .,"[('battery life', 'positive')]"
+"I mainly use it for email , internet , and managing personal files pics , vids , etc .","[('internet', 'neutral'), ('managing personal files', 'neutral')]"
+"It is well worth the money it cost , Very good investment .","[('cost', 'positive')]"
+"I wish it had a webcam though , then it would be perfect !","[('webcam', 'negative')]"
+"Call tech support , standard email the form and fax it back in to us .","[('tech support', 'neutral')]"
+"The screen takes some getting use to , because it is smaller than the laptop .","[('screen', 'negative')]"
+Have returned that laptop unused .,[]
+The biggest problem is that the box had no instructions in it .,"[('instructions', 'negative')]"
+"Garageband is more for the musicians , and the laptop is equipped with a good working microphone , good enough for beginners and musicians at the intermediate level .","[('Garageband', 'neutral'), ('microphone', 'positive')]"
+It discharges too quickly .,"[('discharges', 'negative')]"
+I wanted something that had a new Intel Core processors and HDMI port so that we could hook it up directly to our TV .,"[('Intel Core processors', 'neutral'), ('HDMI port', 'neutral')]"
+COMPUTER HAS BEEN AT SERVICE FACILITY MORE THAN IN MY HANDS .,"[('SERVICE FACILITY', 'negative')]"
+Going to bring it to service today .,"[('service', 'neutral')]"
+"I would rate this computer at 5 stars , but considering it has a short life span I can only give it 1 and implore anyone looking at laptops to stay away from this machine .","[('life span', 'negative')]"
+"Eventually my battery would n't charge , so unless I had it plugged in it would n't even power on .","[('battery', 'negative')]"
+It gives me the power and speed that I need to run all the programs I use to edit .,"[('power', 'positive'), ('speed', 'positive'), ('programs', 'neutral')]"
+"Still , this laptop is perfect for all day use at school and work .",[]

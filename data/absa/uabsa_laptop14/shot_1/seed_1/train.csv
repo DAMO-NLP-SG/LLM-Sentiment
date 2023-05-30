@@ -1,0 +1,5 @@
+text,label_text
+I do not know for sure .,[]
+very convenient when you travel and the battery life is excellent .,"[('battery life', 'positive')]"
+It discharges too quickly .,"[('discharges', 'negative')]"
+The processor is very quick and effective as I load webpages and applications .,"[('processor', 'positive'), ('load webpages', 'neutral'), ('applications', 'neutral')]"

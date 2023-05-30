@@ -1,0 +1,21 @@
+text,label_text
+"Ive been to many Thai restaurants in Manhattan before , and Toons is by far the best Thai food Ive had except for my mom 's of course .",[]
+"Immediately after we paid , the waiter took the money and said , okay , you guys are outta here .","[('waiter', 'negative')]"
+What 's the difference between the two ?,[]
+"However , go for the ambience , and consider the food just a companion for a trip across the world !","[('ambience', 'positive'), ('food', 'neutral')]"
+I did not try the caviar but I tried their salmon and crab salad they are all good,"[('salmon', 'positive'), ('crab salad', 'positive')]"
+"No , really .",[]
+I had a huge pastrami sandwich on a roll .,"[('pastrami sandwich on a roll', 'neutral')]"
+I can not imagine better Indian food in all of the city .,"[('Indian food', 'positive')]"
+Fish was overdone .,"[('Fish', 'negative')]"
+"If you do n't mind pre-sliced low quality fish , unfriendly staff and a sushi chef that looks like he is miserable then this is your place .","[('fish', 'negative'), ('staff', 'negative'), ('sushi chef', 'negative')]"
+Kind of a small place but I guess if they are not too busy might be able to fit a group or kids .,"[('place', 'neutral')]"
+This place blew me awayby far my new favorite restaurant on the uppereast side .,"[('place', 'positive')]"
+"The service is ok , some of the people did n't get what they asked for .","[('service', 'neutral')]"
+sometimes i get good food and ok service .,"[('food', 'positive'), ('service', 'neutral')]"
+keep up the good work .,[]
+"The pizza is delicious , they use fresh mozzarella instead of the cheap , frozen , shredded cheese common to most pizza 's .","[('pizza', 'positive'), ('fresh mozzarella', 'positive'), ('pizza', 'positive')]"
+"A gentleman , maybe the manager , came to our table , and without so much as a smile or greeting asked for our order .","[('gentleman', 'negative')]"
+"The waitress moved our table practically into the bathroom and when we asked to cancel our dinner orders because we did not want to eat sitting on the toilet , we were told no .","[('waitress', 'negative')]"
+It 's somewhere you can eat and be happy .,[]
+"The food is wonderful , tasty and filling , and the service is professional and friendly .","[('food', 'positive'), ('service', 'positive')]"

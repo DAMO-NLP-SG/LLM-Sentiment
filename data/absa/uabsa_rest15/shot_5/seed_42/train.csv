@@ -1,0 +1,21 @@
+text,label_text
+The food was bland oily .,"[('food', 'negative')]"
+Highly recommended to all !,[]
+"No , really .",[]
+My chow fun and chow see was really bland and oily .,"[('chow fun and chow see', 'negative')]"
+Amma is nothing special .,"[('Amma', 'neutral')]"
+"The portions are HUGE , so it might be good to order three things to split rather than one appetizer and entree per person for two people .","[('portions', 'neutral')]"
+"With the great variety on the menu , I eat here often and never get bored .","[('menu', 'positive')]"
+I was here a few weeks back and we had the worst customer service experience at a restaurant ever .,"[('customer service', 'negative')]"
+Just went here for my girlfriends 23rd bday .,[]
+"Compared to other shabu restaurants around town , this places wins hands-down .",[]
+I LOVE their Thai,"[('Thai', 'positive')]"
+"Terrible , terrible management , deserves to be shut-down .","[('management', 'negative')]"
+The restaurant is cute but not upscale .,"[('restaurant', 'neutral')]"
+It 's great to go for a quick lunch either alone or with a friend .,[]
+"During the course of the past 3 months , the chef and staff changed and it was not for the better .","[('chef', 'negative'), ('staff', 'negative')]"
+The bagel was huge .,"[('bagel', 'positive')]"
+The service was friendly and the atmosphere was casual .,"[('service', 'positive'), ('atmosphere', 'neutral')]"
+The food 's as good as ever .,"[('food', 'positive')]"
+Consistently good Japanese Tapas .,"[('Japanese Tapas', 'positive')]"
+The location and ambience is Ok but the food is what makes up for it .,"[('location', 'neutral'), ('ambience', 'neutral'), ('food', 'positive')]"

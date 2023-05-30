@@ -1,0 +1,3 @@
+text,tuple,label_text
+the football team is decent but getting better! the basketball teams are awesome!the,"['football', 'basketball', 'worse']",worse
+"Now let's be clear; in this author's humble opinion, Apple is still way better than IBM.","['Apple', 'IBM', 'better']",better

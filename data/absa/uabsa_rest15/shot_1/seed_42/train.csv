@@ -1,0 +1,5 @@
+text,label_text
+"The portions are HUGE , so it might be good to order three things to split rather than one appetizer and entree per person for two people .","[('portions', 'neutral')]"
+"No , really .",[]
+The food was bland oily .,"[('food', 'negative')]"
+The food 's as good as ever .,"[('food', 'positive')]"

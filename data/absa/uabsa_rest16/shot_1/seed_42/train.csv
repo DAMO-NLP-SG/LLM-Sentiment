@@ -1,0 +1,5 @@
+text,label_text
+"Food was okay , nothing great .","[('Food', 'neutral')]"
+I live in the neightborhood and am a regular .,[]
+The place is small and cramped but the food is fantastic .,"[('place', 'negative'), ('food', 'positive')]"
+"One special roll and one regular roll is enough to fill you up , but save room for dessert !","[('special roll', 'positive'), ('regular roll', 'positive'), ('dessert', 'positive')]"

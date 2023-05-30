@@ -1,0 +1,5 @@
+text,label_text
+"The food is good , especially their more basic dishes , and the drinks are delicious .","[('food quality', 'food', 'good', 'positive'), ('food quality', 'basic dishes', 'good', 'positive'), ('drinks quality', 'drinks', 'delicious', 'positive')]"
+"There was no tap beer that evening , which was a disappointment .","[('drinks style_options', 'beer', 'disappointment', 'negative')]"
+Prices are fair across the board for both food and bev .,"[('food prices', 'food', 'fair', 'positive'), ('drinks prices', 'bev', 'fair', 'positive')]"
+"This is such a lovely , peaceful place to eat outside .","[('ambience general', 'place', 'lovely', 'positive'), ('ambience general', 'place', 'peaceful', 'positive')]"

@@ -1,0 +1,4 @@
+domain,id,text,aspect,label_text
+laptop,1623,With a MAC computer I have more free time as I don't have to wait for windows to boot up or shut down and all the viruses associated with windows.,windows,negative
+laptop,740,This computer had exactly the specifications I needed.,specifications,positive
+rest,2167,The workers there also absolutely load the bagel with cream cheese (gets a little messy).,cream cheese,neutral

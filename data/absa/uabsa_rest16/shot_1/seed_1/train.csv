@@ -1,0 +1,5 @@
+text,label_text
+"Fresh , mind blowing flavors .",[]
+The only thing I moderately enjoyed was their Grilled Chicken special with Edamame Puree .,"[('Grilled Chicken special with Edamame Puree', 'positive')]"
+Service is not what one would expect from a joint in this price category .,"[('Service', 'negative')]"
+"The bibimbap was average , but the stone bowl was n't even close to sizzling .","[('bibimbap', 'neutral'), ('stone bowl', 'negative')]"

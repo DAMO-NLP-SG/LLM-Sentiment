@@ -1,0 +1,21 @@
+text,label_text
+The workers there also absolutely load the bagel with cream cheese gets a little messy .,"[('bagel', 'negative')]"
+I 've been many time and have never been disappointed .,[]
+Decent wine at reasonable prices .,"[('wine', 'neutral')]"
+Decor is nice though service can be spotty .,"[('Decor', 'positive'), ('service', 'negative')]"
+"With the exception of our lemon salad that had so much pepper on it that our eyes started watering , the food here was decent , not great .","[('lemon salad', 'negative'), ('food', 'neutral')]"
+"The wait staff is pleasant , fun , and for the most part gorgeous in the wonderful aesthetic beautification way , not in that she's-way-cuter-than-me-that-b @ # $ * way .","[('wait staff', 'positive')]"
+skip dessert .,"[('dessert', 'negative')]"
+Visited there while on vacation and reading the reviews .,[]
+I had a huge pastrami sandwich on a roll .,"[('pastrami sandwich on a roll', 'neutral')]"
+The only problem is that the manager is a complete incompetent .,"[('manager', 'negative')]"
+The food was absolutely amazing ! !,"[('food', 'positive')]"
+The pizza is overpriced and soggy .,"[('pizza', 'negative')]"
+As a student in NYU i need a place to eat after a hard day of work so usually i just go to any indian restraunt near by .,[]
+I came into the city to try out this restaurant because a friend had recommended it to my husband .,[]
+"Bagels are ok , but be sure not to make any special requests !","[('Bagels', 'neutral')]"
+I would highly recommend .,[]
+This place is always packed .,"[('place', 'neutral')]"
+This place has the the correct ambience and an excellent staff to make you feel like a guest and a friend at the same time .,"[('ambience', 'positive'), ('staff', 'positive')]"
+"Even though its good seafood , the prices are too high .","[('seafood', 'positive')]"
+"However , if you want great food at a great price and do n't mind the decor , you ca n't beat this place .","[('food', 'positive'), ('decor', 'neutral')]"

@@ -1,0 +1,5 @@
+text,label_text
+10 plus hours of battery .,"[('battery', 'positive')]"
+this is one of the reasons I purchased it .,[]
+"The downside to this netbook is pretty much the same for any netbook , screen size is not something I 'd stare at for the entire 10-11 hours of battery life five days a week .","[('screen size', 'neutral'), ('battery life', 'neutral')]"
+"Also , the space bar makes a noisy click every time you use it .","[('space bar', 'negative')]"

@@ -1,0 +1,4 @@
+text,label_text
+"Everything is so easy to use , Mac software is just so much simpler than Microsoft software .","[('Mac software', 'easy', 'positive'), ('Microsoft software', 'simpler than', 'negative'), ('use', 'easy', 'positive')]"
+my niece and nephew have played a few web games and it runs anything that does n't require a dedicated video card .,"[('video card', 'dedicated', 'neutral')]"
+"The only thing that can be updated is the video , other than that you 're all set .","[('video', 'updated', 'negative')]"

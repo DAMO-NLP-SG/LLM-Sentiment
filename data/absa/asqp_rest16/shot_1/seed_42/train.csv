@@ -1,0 +1,5 @@
+text,label_text
+The wine list is interesting and has many good values .,"[('drinks style_options', 'wine list', 'interesting', 'positive'), ('drinks prices', 'wine list', 'good values', 'positive')]"
+The food is amazing ... especially if you get the Chef 's tasting menu and your favourite bottle ( or two ! ) of wine from an extensive selection of wines .,"[('food quality', 'food', 'amazing', 'positive'), ('drinks style_options', 'selection of wines', 'extensive', 'positive'), ('food quality', ""Chef 's tasting menu"", 'favourite', 'positive')]"
+Gorgeous place ideal for a romantic dinner,"[('ambience general', 'place', 'Gorgeous', 'positive'), ('restaurant miscellaneous', 'place', 'ideal', 'positive')]"
+"The drinks are great , especially when made by Raymond .","[('drinks quality', 'drinks', 'great', 'positive'), ('service general', 'Raymond', 'great', 'positive')]"

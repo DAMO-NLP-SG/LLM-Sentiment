@@ -1,0 +1,4 @@
+text,label_text
+Our server was very helpful and friendly .,"[('server', 'helpful', 'positive'), ('server', 'friendly', 'positive')]"
+"The portions are HUGE , so it might be good to order three things to split ( rather than one appetizer and entree per person ) for two people .","[('portions', 'HUGE', 'neutral')]"
+Fish was overdone .,"[('Fish', 'overdone', 'negative')]"

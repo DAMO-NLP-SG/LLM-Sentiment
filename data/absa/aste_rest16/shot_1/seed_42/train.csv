@@ -1,0 +1,4 @@
+text,label_text
+"limited menu , no-so-fresh ingredients , thinly-sliced fish , fall-apart rice .","[('menu', 'limited', 'negative'), ('ingredients', 'no-so-fresh', 'negative'), ('fish', 'thinly-sliced', 'negative'), ('rice', 'fall-apart', 'negative')]"
+"For desserts , we tried the frozen black sesame mousse ( interesting but not extraordinary ) and matcha ( powdered green tea ) and blueberry cheesecake , which was phenomenal .","[('frozen black sesame mousse', 'interesting', 'neutral'), ('frozen black sesame mousse', 'extraordinary', 'neutral'), ('matcha ( powdered green tea ) and blueberry cheesecake', 'phenomenal', 'positive')]"
+The food was good .,"[('food', 'good', 'positive')]"

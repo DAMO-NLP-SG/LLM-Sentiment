@@ -1,0 +1,41 @@
+text,label_text
+This is the perfect date spot for Williamsburg couples .,"[('date spot', 'positive')]"
+"Not sure where the previous reviewer , lonk , dined , but Saul is in a great neighborhood and has great food !","[('neighborhood', 'positive'), ('food', 'positive')]"
+"The food is delicious , from the specials to the regular menu-fare , the dishes are never a disappointment .","[('food', 'positive'), ('specials', 'positive'), ('regular menu-fare', 'positive'), ('dishes', 'positive')]"
+We were disappointed with the pre-fixe menu of only 2 choices per course other restaurants offer 3 choices and ended up ordering a la carte .,"[('pre-fixe menu', 'negative'), ('choices per course', 'neutral'), ('ordering a la carte', 'negative')]"
+"Southern Indian cuisine is still there , too .","[('Southern Indian cuisine', 'neutral')]"
+"I 've had the lunch buffet at Chennai a couple of times , when I have been in the neighborhood .","[('lunch buffet', 'neutral')]"
+"Service was prompt , friendly and great .","[('Service', 'positive')]"
+"The space is a bit too small for live music , so on jazz nights , it can be loud and cramped .","[('space', 'negative'), ('live music', 'neutral'), ('jazz nights', 'neutral')]"
+"Food was average and creme brulee was awful , the sugar was charred , not caramelized and smelled of kerosene .","[('Food', 'neutral'), ('creme brulee', 'negative'), ('sugar', 'negative')]"
+"For appetizers , I recommend the shrimp fritters and dumplings .","[('appetizers', 'neutral'), ('shrimp fritters', 'positive'), ('dumplings', 'positive')]"
+They need a kick out of it but until then the sushi is pretty good and the place is consistent .,"[('sushi', 'positive'), ('place', 'positive')]"
+"This tiny restaurant is as cozy as it gets , with that certain Parisian flair .",[]
+We were very pleasantly surprised .,[]
+"Some of the workers ignore me and talk to the female customers , other times , they 've skipped my order .","[('workers', 'negative'), ('order', 'negative')]"
+"I am Indian , and I have tried many Indian places in NY .",[]
+It is expensive but well worth the money .,[]
+There are other Vietnamese restaurants in the chinatown area and you can forget about those .,[]
+"they did n't disappoint , service from the second i arrived at the door was extremely pleasant and attentive with almost one server per table .","[('service', 'positive'), ('server', 'positive'), ('table', 'neutral')]"
+"To dine at Thalia can be slightly deceiving because while its beautiful on the outside , its so bland on the inside .",[]
+"It looked like shredded cheese partly done , still in strips .","[('shredded cheese', 'negative')]"
+from an English speaking staff .,"[('staff', 'neutral')]"
+"I have tried to make reservations , but both times , the hostess did n't have my name .","[('reservations', 'neutral'), ('hostess', 'negative')]"
+This is a consistently great place to dine for lunch or dinner .,"[('dine', 'positive'), ('lunch', 'neutral'), ('dinner', 'neutral')]"
+A Thai restaurant out of rice during dinner ?,"[('rice', 'neutral'), ('dinner', 'neutral')]"
+We generally like good restaurants and eat out often but Kai was way to expensive for what we got .,[]
+"However , if you want great food at a great price and do n't mind the decor , you ca n't beat this place .","[('food', 'positive'), ('price', 'positive'), ('decor', 'negative')]"
+Overall a worthwhile experience .,[]
+"sometimes i get bad food and bad service , sometimes i get good good and bad service .","[('food', 'negative'), ('service', 'negative'), ('good good', 'positive'), ('service', 'negative')]"
+"We figured we never had Argentinian Pizza before so we grabbed our lunch there , sharing a large Pelligrino , a pizza of two of their specials , one was goat cheese the other blue cheese , and both were excellent .","[('Argentinian Pizza', 'neutral'), ('lunch', 'neutral'), ('Pelligrino', 'positive'), ('pizza', 'positive'), ('goat cheese', 'positive'), ('blue cheese', 'positive')]"
+"When asked about how a certain dish was prepared in comparison to a similar at other thai restaurants , he replied this is not Mcdonald 's , every place makes things differently While it is understandable that every place is indeed different , there was not a need to be uncourteous to customers and downright rude .","[('dish', 'neutral')]"
+I have been to Roth 's twice and both times were very disappointing .,[]
+We went to eat at the Jekyll and Hyde restaurant on Friday night and really enjoyed the fun atmosphere and good food .,"[('atmosphere', 'positive'), ('food', 'positive')]"
+The only disappointment was the coat check girls who did n't seem to know what a customer is on a realtively non-busy night for the coat check girls .,"[('coat check girls', 'negative'), ('coat check girls', 'negative')]"
+Delicious crab cakes too .,"[('crab cakes', 'positive')]"
+"However , their popularity has yet to slow down , and I still find myself drawn to their ambiance and delectable reputation .","[('ambiance', 'positive')]"
+we were seated at the sushi bar in front of yasuda .,"[('sushi bar', 'neutral')]"
+"The porcini mushroom pasta special was tasteless , so was the seafood tagliatelle .","[('porcini mushroom pasta special', 'negative'), ('seafood tagliatelle', 'negative')]"
+"We have tried every Thai restaurant between Atlantic Avenue and 4th Streets , and Joya is the best .",[]
+The staff was too busy ordering sushi for dinner and then laying it out to eat on the bar to even bring me my check .,"[('staff', 'negative'), ('sushi', 'neutral'), ('dinner', 'neutral'), ('bar', 'neutral'), ('check', 'neutral')]"
+Prices are higher to dine in and their chicken tikka marsala is quite good .,"[('Prices', 'negative'), ('chicken tikka marsala', 'positive')]"

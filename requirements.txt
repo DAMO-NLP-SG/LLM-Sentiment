@@ -1,0 +1,6 @@
+numpy==1.21.2
+openai==0.27.2
+pandas==1.4.2
+requests==2.24.0
+scikit-learn==1.1.1
+tenacity==8.2.2

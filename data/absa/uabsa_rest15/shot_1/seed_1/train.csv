@@ -1,0 +1,5 @@
+text,label_text
+I would highly recommend .,[]
+Decor is nice though service can be spotty .,"[('Decor', 'positive'), ('service', 'negative')]"
+The pizza is overpriced and soggy .,"[('pizza', 'negative')]"
+"However , if you want great food at a great price and do n't mind the decor , you ca n't beat this place .","[('food', 'positive'), ('decor', 'neutral')]"

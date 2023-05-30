@@ -1,0 +1,41 @@
+text,label_text
+"With the exception of our lemon salad that had so much pepper on it that our eyes started watering , the food here was decent , not great .","[('lemon salad', 'negative'), ('food', 'neutral')]"
+I 've been many time and have never been disappointed .,[]
+The workers there also absolutely load the bagel with cream cheese gets a little messy .,"[('bagel', 'negative')]"
+"Even though its good seafood , the prices are too high .","[('seafood', 'positive')]"
+I have been to Casimir over 5 times and I have always had a great time there .,"[('Casimir', 'positive')]"
+Everything about this restaurant was special .,"[('restaurant', 'positive')]"
+This place has the the correct ambience and an excellent staff to make you feel like a guest and a friend at the same time .,"[('ambience', 'positive'), ('staff', 'positive')]"
+You ca n't go wrong here .,[]
+"The decor in this place is very diner-ish and the kind of place you expect in the East Village , not romantic , just simple , small and sparse .","[('decor', 'neutral')]"
+Decor is charming .,"[('Decor', 'positive')]"
+Visited there while on vacation and reading the reviews .,[]
+"Food was just averageif they lowered the prices just a bit , it would be a bigger draw .","[('Food', 'neutral')]"
+I would highly recommend .,[]
+"As we were leaving , the couple standing by the door said to another waiter , we 're not in a hurry .",[]
+I came into the city to try out this restaurant because a friend had recommended it to my husband .,[]
+"Great food , great decor , great service .","[('food', 'positive'), ('decor', 'positive'), ('service', 'positive')]"
+skip dessert .,"[('dessert', 'negative')]"
+"Bagels are ok , but be sure not to make any special requests !","[('Bagels', 'neutral')]"
+"However , if you want great food at a great price and do n't mind the decor , you ca n't beat this place .","[('food', 'positive'), ('decor', 'neutral')]"
+i went to utsav about a yr ago with my family .,[]
+The food was absolutely amazing ! !,"[('food', 'positive')]"
+"The wait staff is pleasant , fun , and for the most part gorgeous in the wonderful aesthetic beautification way , not in that she's-way-cuter-than-me-that-b @ # $ * way .","[('wait staff', 'positive')]"
+As a student in NYU i need a place to eat after a hard day of work so usually i just go to any indian restraunt near by .,[]
+Decor is nice though service can be spotty .,"[('Decor', 'positive'), ('service', 'negative')]"
+Service is average .,"[('Service', 'neutral')]"
+The lobster sandwich is good and the spaghetti with Scallops and Shrimp is great .,"[('lobster sandwich', 'positive'), ('spaghetti with Scallops and Shrimp', 'positive')]"
+"Also , the sandwiches nearing $ 7 did n't come with anything like chips or a side .","[('sandwiches', 'negative')]"
+This place is always packed .,"[('place', 'neutral')]"
+"With so many good restaurants on the UWS , I do n't need overpriced food , absurdly arrogant wait-staff who do n't recognize they work at a glorified diner , clumsy service , and management that does n't care .","[('food', 'negative'), ('wait-staff', 'negative'), ('service', 'negative'), ('management', 'negative')]"
+"We picked it randomly , without a recommendation from someone who has been there , so we were n't sure what to expect .",[]
+The only problem is that the manager is a complete incompetent .,"[('manager', 'negative')]"
+My son and his girlfriend both wanted cheeseburgers and they were huge !,"[('cheeseburgers', 'neutral')]"
+The pizza is overpriced and soggy .,"[('pizza', 'negative')]"
+Amma is nothing special .,"[('Amma', 'neutral')]"
+This place would be so much better served by being run by a group that actually understands customer service .,"[('customer service', 'negative')]"
+Decent wine at reasonable prices .,"[('wine', 'neutral')]"
+We wo n't go to this place again for a good meal .,"[('meal', 'negative')]"
+"Two complaints their appetizer selection stinks , it would be nice to get some mozzarella sticks on the menu .","[('appetizer selection', 'negative')]"
+I had a huge pastrami sandwich on a roll .,"[('pastrami sandwich on a roll', 'neutral')]"
+"Recommendations , of course , are required !",[]

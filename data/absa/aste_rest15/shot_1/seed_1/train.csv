@@ -1,0 +1,4 @@
+text,label_text
+We ate at this Thai place following the reviews but very unhappy with the foods .,"[('foods', 'unhappy', 'negative')]"
+Great pizza for lunch place .,"[('pizza', 'Great', 'positive')]"
+"Food was just average ... if they lowered the prices just a bit , it would be a bigger draw .","[('Food', 'average', 'neutral')]"

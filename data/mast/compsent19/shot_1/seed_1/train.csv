@@ -1,0 +1,3 @@
+text,tuple,label_text
+I know I like Mello Yello (Coca-Cola product) better than Mountain Dew (Pepsi-Cola product) and have ever since I 1st tried Mello Yello and I'll only drink a Dew if I run out of Mello Yello here in Houston.,"['Coca-Cola', 'Pepsi', 'better']",better
+"Then again, without the Modern UI, Windows 8 doesn't offer many advantages, aside from faster performance, over Windows 7.","['Windows 8', 'Windows 7', 'worse']",worse

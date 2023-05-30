@@ -1,0 +1,21 @@
+text,label_text
+We generally like good restaurants and eat out often but Kai was way to expensive for what we got .,[]
+"sometimes i get bad food and bad service , sometimes i get good good and bad service .","[('food', 'negative'), ('service', 'negative'), ('good good', 'positive'), ('service', 'negative')]"
+There are other Vietnamese restaurants in the chinatown area and you can forget about those .,[]
+from an English speaking staff .,"[('staff', 'neutral')]"
+"Not sure where the previous reviewer , lonk , dined , but Saul is in a great neighborhood and has great food !","[('neighborhood', 'positive'), ('food', 'positive')]"
+Overall a worthwhile experience .,[]
+"The space is a bit too small for live music , so on jazz nights , it can be loud and cramped .","[('space', 'negative'), ('live music', 'neutral'), ('jazz nights', 'neutral')]"
+Delicious crab cakes too .,"[('crab cakes', 'positive')]"
+We were disappointed with the pre-fixe menu of only 2 choices per course other restaurants offer 3 choices and ended up ordering a la carte .,"[('pre-fixe menu', 'negative'), ('choices per course', 'neutral'), ('ordering a la carte', 'negative')]"
+"Some of the workers ignore me and talk to the female customers , other times , they 've skipped my order .","[('workers', 'negative'), ('order', 'negative')]"
+"Southern Indian cuisine is still there , too .","[('Southern Indian cuisine', 'neutral')]"
+We went to eat at the Jekyll and Hyde restaurant on Friday night and really enjoyed the fun atmosphere and good food .,"[('atmosphere', 'positive'), ('food', 'positive')]"
+A Thai restaurant out of rice during dinner ?,"[('rice', 'neutral'), ('dinner', 'neutral')]"
+"When asked about how a certain dish was prepared in comparison to a similar at other thai restaurants , he replied this is not Mcdonald 's , every place makes things differently While it is understandable that every place is indeed different , there was not a need to be uncourteous to customers and downright rude .","[('dish', 'neutral')]"
+I have been to Roth 's twice and both times were very disappointing .,[]
+"However , their popularity has yet to slow down , and I still find myself drawn to their ambiance and delectable reputation .","[('ambiance', 'positive')]"
+The staff was too busy ordering sushi for dinner and then laying it out to eat on the bar to even bring me my check .,"[('staff', 'negative'), ('sushi', 'neutral'), ('dinner', 'neutral'), ('bar', 'neutral'), ('check', 'neutral')]"
+Prices are higher to dine in and their chicken tikka marsala is quite good .,"[('Prices', 'negative'), ('chicken tikka marsala', 'positive')]"
+It is expensive but well worth the money .,[]
+This is the perfect date spot for Williamsburg couples .,"[('date spot', 'positive')]"

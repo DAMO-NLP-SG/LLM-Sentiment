@@ -1,0 +1,41 @@
+text,label_text
+We waited at the bar and had martinis that were just right .,"[('martinis', 'positive')]"
+Try sushimi cucumber roll .,"[('sushimi cucumber roll', 'positive')]"
+This is the kind of place you 'd like to take all your friends to and still keep a secret .,"[('place', 'positive')]"
+Service is not what one would expect from a joint in this price category .,"[('Service', 'negative')]"
+"Overall , decent food at a good price , with friendly people .","[('food', 'neutral'), ('people', 'positive')]"
+"However , go for the ambience , and consider the food just a companion for a trip across the world !","[('ambience', 'positive'), ('food', 'neutral')]"
+Gorgeous place ideal for a romantic dinner,"[('place', 'positive')]"
+Food was OK .,"[('Food', 'neutral')]"
+The service was friendly and the atmosphere was casual .,"[('service', 'positive'), ('atmosphere', 'neutral')]"
+"The portion sizes here are huge , and the sushi is good .","[('portion', 'positive'), ('sushi', 'positive')]"
+"Excellent sashimi , and the millennium roll is beyond delicious .","[('sashimi', 'positive'), ('millennium roll', 'positive')]"
+"You 'll be ther for every anniversary , birthday , valentines day .",[]
+For a Fabulous Wedding !,[]
+The real problem I had with this place was the complete lack of service .,"[('service', 'negative')]"
+For each course we waited over 1/2 hour to 45 minutes and were never offered a drink .,[]
+Will give it another chance before I write it off .,[]
+A little pricey but it really hits the spot on a Sunday morning !,[]
+overpriced japanese food with mediocre service,"[('japanese food', 'negative'), ('service', 'neutral')]"
+We will return many times for this oasis in mid-town .,[]
+"We thought the dessert would be better , Wrong !","[('dessert', 'negative')]"
+"However , if you want great food at a great price and do n't mind the decor , you ca n't beat this place .","[('food', 'positive'), ('decor', 'neutral')]"
+"sometimes i get bad food and bad service , sometimes i get good good and bad service .","[('food', 'negative'), ('service', 'negative'), ('good good', 'positive'), ('service', 'negative')]"
+The menu is fairly simple without much descriptions .,"[('menu', 'neutral')]"
+sometimes i get good food and ok service .,"[('food', 'positive'), ('service', 'neutral')]"
+"When the bill came , nothing was comped , so I told the manager very politely that we were willing to pay for the wine , but I did n't think I should have to pay for food with a maggot in it .",[]
+This place does n't make any sense,"[('place', 'negative')]"
+Give it a try and enjoy .,[]
+Service was also horrible and the ambience is not that great .,"[('Service', 'negative'), ('ambience', 'negative')]"
+They have a huge selection of different cream cheeses and all of their salads are great .,"[('cream cheeses', 'positive'), ('salads', 'positive')]"
+"The Four Seasons has history and it is a sort of landmark of New York City restaurants , but trust me , they will charge you through the nose just so that you can say I 've been to the four seasons restaurant .","[('The Four Seasons', 'neutral')]"
+"I 'm not picky , but it was actually gross .",[]
+Watch the talented belly dancers as you enjoy delicious baba ganoush that 's more lemony than smoky .,"[('belly dancers', 'positive'), ('baba ganoush', 'positive')]"
+food was luke warm .,"[('food', 'negative')]"
+"The food was average to above-average ; the French Onion soup filling yet not overly impressive , and the desserts not brilliant in any way .","[('food', 'positive'), ('French Onion soup', 'negative'), ('desserts', 'negative')]"
+"We recently decided to try this location , and to our delight , they have outdoor seating , perfect since I had my yorkie with me .","[('outdoor seating', 'positive')]"
+"The bibimbap was average , but the stone bowl was n't even close to sizzling .","[('bibimbap', 'neutral'), ('stone bowl', 'negative')]"
+I was looking for banana tempura for dessert and they do n't have .,"[('dessert', 'negative')]"
+"Really , I find it rather scandalous that such a crappy restaurant attracts such crowds -- this , in the city of a million restaurants , at least 9/10 of which are way better than this one .",[]
+The menu is limited but almost all of the dishes are excellent .,"[('menu', 'negative'), ('dishes', 'positive')]"
+We wo n't go to this place again for a good meal .,"[('meal', 'negative')]"
