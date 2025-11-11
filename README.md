@@ -32,12 +32,19 @@ bash script/eval_few_shot.sh
 ## Citation
 If the code is used in your research, please star our repo and cite our paper as follows:
 ```
-@misc{zhang2023sentiment,
-      title={Sentiment Analysis in the Era of Large Language Models: A Reality Check},
-      author={Wenxuan Zhang and Yue Deng and Bing Liu and Sinno Jialin Pan and Lidong Bing},
-      year={2023},
-      eprint={2305.15005},
-      archivePrefix={arXiv},
-      primaryClass={cs.CL}
+@inproceedings{zhang-etal-2024-sentiment,
+    title = "Sentiment Analysis in the Era of Large Language Models: A Reality Check",
+    author = "Zhang, Wenxuan  and
+      Deng, Yue  and
+      Liu, Bing  and
+      Pan, Sinno  and
+      Bing, Lidong",
+    booktitle = "Findings of the Association for Computational Linguistics: NAACL 2024",
+    month = jun,
+    year = "2024",
+    address = "Mexico City, Mexico",
+    publisher = "Association for Computational Linguistics",
+    url = "https://aclanthology.org/2024.findings-naacl.246/",
+    pages = "3881--3906",
 }
 ```
